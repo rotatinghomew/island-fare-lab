@@ -1,0 +1,418 @@
+[
+  {
+    "type": "paid_price_mismatch",
+    "message": "旅程 J0401 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+    "refs": {
+      "journey": "J0401",
+      "plan": "express",
+      "paid": 400.0
+    }
+  },
+  {
+    "type": "paid_price_mismatch",
+    "message": "旅程 J0606 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+    "refs": {
+      "journey": "J0606",
+      "plan": "express",
+      "paid": 400.0
+    }
+  },
+  {
+    "type": "paid_price_mismatch",
+    "message": "旅程 J1606 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+    "refs": {
+      "journey": "J1606",
+      "plan": "express",
+      "paid": 400.0
+    }
+  },
+  {
+    "type": "paid_price_mismatch",
+    "message": "旅程 J1906 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+    "refs": {
+      "journey": "J1906",
+      "plan": "express",
+      "paid": 400.0
+    }
+  },
+  {
+    "type": "paid_price_mismatch",
+    "message": "旅程 J1911 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+    "refs": {
+      "journey": "J1911",
+      "plan": "express",
+      "paid": 400.0
+    }
+  },
+  {
+    "type": "paid_price_mismatch",
+    "message": "旅程 J2706 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+    "refs": {
+      "journey": "J2706",
+      "plan": "express",
+      "paid": 400.0
+    }
+  },
+  {
+    "type": "paid_price_mismatch",
+    "message": "旅程 J2801 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+    "refs": {
+      "journey": "J2801",
+      "plan": "express",
+      "paid": 400.0
+    }
+  },
+  {
+    "type": "paid_price_mismatch",
+    "message": "旅程 J3106 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+    "refs": {
+      "journey": "J3106",
+      "plan": "express",
+      "paid": 400.0
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P02 已过收齐日 2026-06-04，旅程 J0207 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0207",
+      "period": "P02"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P03 已过收齐日 2026-06-05，旅程 J0307 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0307",
+      "period": "P03"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P04 已过收齐日 2026-06-06，旅程 J0402 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0402",
+      "period": "P04"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P04 已过收齐日 2026-06-06，旅程 J0405 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0405",
+      "period": "P04"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P04 已过收齐日 2026-06-06，旅程 J0410 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0410",
+      "period": "P04"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P07 已过收齐日 2026-06-09，旅程 J0707 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0707",
+      "period": "P07"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P08 已过收齐日 2026-06-10，旅程 J0804 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0804",
+      "period": "P08"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P08 已过收齐日 2026-06-10，旅程 J0810 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0810",
+      "period": "P08"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P09 已过收齐日 2026-06-11，旅程 J0904 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0904",
+      "period": "P09"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P09 已过收齐日 2026-06-11，旅程 J0907 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0907",
+      "period": "P09"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P09 已过收齐日 2026-06-11，旅程 J0908 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0908",
+      "period": "P09"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P09 已过收齐日 2026-06-11，旅程 J0911 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J0911",
+      "period": "P09"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P11 已过收齐日 2026-06-13，旅程 J1105 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1105",
+      "period": "P11"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P12 已过收齐日 2026-06-14，旅程 J1201 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1201",
+      "period": "P12"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P12 已过收齐日 2026-06-14，旅程 J1204 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1204",
+      "period": "P12"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P13 已过收齐日 2026-06-15，旅程 J1304 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1304",
+      "period": "P13"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P13 已过收齐日 2026-06-15，旅程 J1305 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1305",
+      "period": "P13"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P13 已过收齐日 2026-06-15，旅程 J1310 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1310",
+      "period": "P13"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P14 已过收齐日 2026-06-16，旅程 J1401 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1401",
+      "period": "P14"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P14 已过收齐日 2026-06-16，旅程 J1405 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1405",
+      "period": "P14"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P14 已过收齐日 2026-06-16，旅程 J1407 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1407",
+      "period": "P14"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P14 已过收齐日 2026-06-16，旅程 J1410 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1410",
+      "period": "P14"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P15 已过收齐日 2026-06-17，旅程 J1501 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1501",
+      "period": "P15"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P16 已过收齐日 2026-06-18，旅程 J1605 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1605",
+      "period": "P16"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P17 已过收齐日 2026-06-19，旅程 J1705 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1705",
+      "period": "P17"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P18 已过收齐日 2026-06-20，旅程 J1805 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1805",
+      "period": "P18"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P18 已过收齐日 2026-06-20，旅程 J1808 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1808",
+      "period": "P18"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P18 已过收齐日 2026-06-20，旅程 J1810 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1810",
+      "period": "P18"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P19 已过收齐日 2026-06-21，旅程 J1908 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1908",
+      "period": "P19"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P19 已过收齐日 2026-06-21，旅程 J1910 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J1910",
+      "period": "P19"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P20 已过收齐日 2026-06-22，旅程 J2005 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2005",
+      "period": "P20"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P21 已过收齐日 2026-06-23，旅程 J2105 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2105",
+      "period": "P21"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P22 已过收齐日 2026-06-24，旅程 J2205 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2205",
+      "period": "P22"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P23 已过收齐日 2026-06-25，旅程 J2310 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2310",
+      "period": "P23"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P24 已过收齐日 2026-06-26，旅程 J2405 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2405",
+      "period": "P24"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P24 已过收齐日 2026-06-26，旅程 J2408 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2408",
+      "period": "P24"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P26 已过收齐日 2026-06-28，旅程 J2604 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2604",
+      "period": "P26"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P26 已过收齐日 2026-06-28，旅程 J2607 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2607",
+      "period": "P26"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P28 已过收齐日 2026-06-30，旅程 J2804 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2804",
+      "period": "P28"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P29 已过收齐日 2026-07-01，旅程 J2910 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2910",
+      "period": "P29"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P29 已过收齐日 2026-07-01，旅程 J2911 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J2911",
+      "period": "P29"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P30 已过收齐日 2026-07-02，旅程 J3002 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J3002",
+      "period": "P30"
+    }
+  },
+  {
+    "type": "closed_period_missing_fulfilment",
+    "message": "时段 P31 已过收齐日 2026-07-03，旅程 J3105 仍无付款/履约记录，按未转化处理但需复核",
+    "refs": {
+      "journey": "J3105",
+      "period": "P31"
+    }
+  }
+]

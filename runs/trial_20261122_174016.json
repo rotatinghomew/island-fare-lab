@@ -1,0 +1,3222 @@
+{
+  "as_of": "2026-11-22T17:40:16.736919+00:00",
+  "n_journeys": 317,
+  "evidence_classes": {
+    "random": 230,
+    "old_choice_diagnostic": 65,
+    "non_random_diagnostic": 22,
+    "ineligible": 0
+  },
+  "holdout": {
+    "mean_log_loss": 1.1782,
+    "mean_abs_error": 0.3528,
+    "choice_accuracy": 0.4956,
+    "folds": [
+      {
+        "periods": [
+          "P17",
+          "P18",
+          "P19",
+          "P25",
+          "P28",
+          "P29"
+        ],
+        "n_rows": 50,
+        "log_loss": 1.1193,
+        "mean_abs_error": 0.3472,
+        "choice_accuracy": 0.54
+      },
+      {
+        "periods": [
+          "P02",
+          "P05",
+          "P14",
+          "P16",
+          "P23",
+          "P31"
+        ],
+        "n_rows": 46,
+        "log_loss": 1.113,
+        "mean_abs_error": 0.3447,
+        "choice_accuracy": 0.5652
+      },
+      {
+        "periods": [
+          "P01",
+          "P03",
+          "P06",
+          "P10",
+          "P26",
+          "P27"
+        ],
+        "n_rows": 44,
+        "log_loss": 1.2458,
+        "mean_abs_error": 0.3601,
+        "choice_accuracy": 0.4318
+      },
+      {
+        "periods": [
+          "P11",
+          "P13",
+          "P15",
+          "P20",
+          "P21",
+          "P30"
+        ],
+        "n_rows": 41,
+        "log_loss": 1.1837,
+        "mean_abs_error": 0.3539,
+        "choice_accuracy": 0.5122
+      },
+      {
+        "periods": [
+          "P00",
+          "P04",
+          "P07",
+          "P08",
+          "P12",
+          "P24"
+        ],
+        "n_rows": 49,
+        "log_loss": 1.229,
+        "mean_abs_error": 0.3582,
+        "choice_accuracy": 0.4286
+      }
+    ]
+  },
+  "diagnostics": {
+    "non_random_periods": [
+      "P09",
+      "P22"
+    ],
+    "old_choice_journeys": [
+      "J0001",
+      "J0006",
+      "J0101",
+      "J0106",
+      "J0201",
+      "J0206",
+      "J0301",
+      "J0306",
+      "J0401",
+      "J0406",
+      "J0411",
+      "J0501",
+      "J0506",
+      "J0601",
+      "J0606",
+      "J0701",
+      "J0706",
+      "J0801",
+      "J0806",
+      "J1001",
+      "J1006",
+      "J1101",
+      "J1106",
+      "J1201",
+      "J1206",
+      "J1301",
+      "J1306",
+      "J1401",
+      "J1406",
+      "J1411",
+      "J1501",
+      "J1506",
+      "J1601",
+      "J1606",
+      "J1701",
+      "J1706",
+      "J1801",
+      "J1806",
+      "J1901",
+      "J1906",
+      "J1911",
+      "J2001",
+      "J2006",
+      "J2101",
+      "J2106",
+      "J2301",
+      "J2306",
+      "J2401",
+      "J2406",
+      "J2411",
+      "J2501",
+      "J2506",
+      "J2601",
+      "J2606",
+      "J2701",
+      "J2706",
+      "J2801",
+      "J2806",
+      "J2901",
+      "J2906",
+      "J2911",
+      "J3001",
+      "J3006",
+      "J3101",
+      "J3106"
+    ],
+    "conflicting_price_journeys": []
+  },
+  "policies": {
+    "base": {
+      "support": {
+        "policy_version": "base",
+        "area": "海湾和港城",
+        "overall": "有证据可采用",
+        "gaps": [],
+        "plans": [
+          {
+            "plan": "semi",
+            "policy_price": 480.0,
+            "observed_prices": [
+              480.0,
+              540.0
+            ],
+            "verdict": "有证据可采用",
+            "segments_observed": [
+              "短时/自携童车",
+              "短时/通用",
+              "长时/自携童车",
+              "长时/通用"
+            ],
+            "segments_missing": []
+          },
+          {
+            "plan": "day",
+            "policy_price": 780.0,
+            "observed_prices": [
+              720.0,
+              780.0
+            ],
+            "verdict": "有证据可采用",
+            "segments_observed": [
+              "短时/自携童车",
+              "短时/通用",
+              "长时/自携童车",
+              "长时/通用"
+            ],
+            "segments_missing": []
+          },
+          {
+            "plan": "express",
+            "policy_price": 400.0,
+            "observed_prices": [
+              400.0,
+              420.0
+            ],
+            "verdict": "有证据可采用",
+            "segments_observed": [
+              "短时/自携童车",
+              "短时/通用",
+              "长时/自携童车",
+              "长时/通用"
+            ],
+            "segments_missing": []
+          }
+        ]
+      },
+      "demand": {
+        "cohort_size": 230,
+        "baseline_demand": {
+          "semi": 102.968,
+          "day": 62.422,
+          "express": 34.432,
+          "no_buy": 30.178
+        },
+        "policy_demand": {
+          "semi": 102.968,
+          "day": 62.422,
+          "express": 34.432,
+          "no_buy": 30.178
+        },
+        "demand_intervals": {
+          "semi": [
+            87.812,
+            121.489
+          ],
+          "day": [
+            47.157,
+            77.144
+          ],
+          "express": [
+            25.004,
+            41.747
+          ],
+          "no_buy": [
+            21.828,
+            37.26
+          ]
+        },
+        "substitution": {
+          "demand_change_by_plan": {
+            "semi": 0.0,
+            "day": 0.0,
+            "express": 0.0
+          },
+          "net_increment_from_no_buy": 0.0,
+          "note": "逐对套餐替代流向在聚合选择数据上不可识别，仅报告可识别的总量分解"
+        },
+        "net_increment": 0.126,
+        "net_increment_interval": [
+          -9.144,
+          9.93
+        ],
+        "support_gaps": []
+      },
+      "margin": {
+        "unit_margin": {
+          "base": {
+            "semi": 252.0,
+            "day": 385.0,
+            "express": 189.0
+          }
+        },
+        "total_margin_interval": {
+          "base": [
+            109674.24,
+            116690.25
+          ]
+        },
+        "delta_margin_mean": 0.0,
+        "delta_margin_interval": [
+          0.0,
+          0.0
+        ],
+        "cost_components": {
+          "semi": {
+            "vehicle_cost": 180.0,
+            "transfer": 30.0,
+            "operator_coupon": 18.0
+          },
+          "day": {
+            "vehicle_cost": 360.0,
+            "transfer": 0.0,
+            "operator_coupon": 35.0
+          },
+          "express": {
+            "vehicle_cost": 135.0,
+            "transfer": 65.0,
+            "operator_coupon": 11.0
+          }
+        }
+      },
+      "finalizable_periods": [
+        "P00",
+        "P01",
+        "P02",
+        "P04",
+        "P05",
+        "P06",
+        "P07",
+        "P08",
+        "P10",
+        "P11",
+        "P12",
+        "P13",
+        "P14",
+        "P15",
+        "P16",
+        "P17",
+        "P19",
+        "P20",
+        "P21",
+        "P25",
+        "P26",
+        "P27",
+        "P28",
+        "P29",
+        "P30",
+        "P31"
+      ],
+      "blocked_periods": [
+        "P03",
+        "P18",
+        "P23",
+        "P24"
+      ],
+      "feasibility": {
+        "P00": {
+          "period": "P00",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P01": {
+          "period": "P01",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P02": {
+          "period": "P02",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P03": {
+          "period": "P03",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "暂缓定案：售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个",
+          "feasible_rate": 0.74,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": [
+            "售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个"
+          ]
+        },
+        "P04": {
+          "period": "P04",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P05": {
+          "period": "P05",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P06": {
+          "period": "P06",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P07": {
+          "period": "P07",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P08": {
+          "period": "P08",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P10": {
+          "period": "P10",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P11": {
+          "period": "P11",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P12": {
+          "period": "P12",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P13": {
+          "period": "P13",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P14": {
+          "period": "P14",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P15": {
+          "period": "P15",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            3.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P16": {
+          "period": "P16",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P17": {
+          "period": "P17",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P18": {
+          "period": "P18",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "暂缓定案：售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个",
+          "feasible_rate": 0.7367,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": [
+            "售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个"
+          ]
+        },
+        "P19": {
+          "period": "P19",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P20": {
+          "period": "P20",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P21": {
+          "period": "P21",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            5.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P23": {
+          "period": "P23",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "暂缓定案：补差需求在 90% 支持水平下达 260 元，超过每时段上限 210 元",
+          "feasible_rate": 0.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            7.0,
+            10.0
+          ],
+          "reserved_slots": 1.0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            260.0,
+            260.0
+          ],
+          "reserved_credit": 130.0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": [
+            "补差需求在 90% 支持水平下达 260 元，超过每时段上限 210 元"
+          ]
+        },
+        "P24": {
+          "period": "P24",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "暂缓定案：售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个",
+          "feasible_rate": 0.7233,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": [
+            "售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个"
+          ]
+        },
+        "P25": {
+          "period": "P25",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            7.0
+          ],
+          "reserved_slots": 1.0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            180.0,
+            180.0
+          ],
+          "reserved_credit": 90.0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P26": {
+          "period": "P26",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P27": {
+          "period": "P27",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P28": {
+          "period": "P28",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P29": {
+          "period": "P29",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P30": {
+          "period": "P30",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P31": {
+          "period": "P31",
+          "policy_version": "base",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        }
+      },
+      "diagnostics": {
+        "old_choice_journeys": [
+          "J0001",
+          "J0006",
+          "J0101",
+          "J0106",
+          "J0201",
+          "J0206",
+          "J0301",
+          "J0306",
+          "J0401",
+          "J0406",
+          "J0411",
+          "J0501",
+          "J0506",
+          "J0601",
+          "J0606",
+          "J0701",
+          "J0706",
+          "J0801",
+          "J0806",
+          "J1001",
+          "J1006",
+          "J1101",
+          "J1106",
+          "J1201",
+          "J1206",
+          "J1301",
+          "J1306",
+          "J1401",
+          "J1406",
+          "J1411",
+          "J1501",
+          "J1506",
+          "J1601",
+          "J1606",
+          "J1701",
+          "J1706",
+          "J1801",
+          "J1806",
+          "J1901",
+          "J1906",
+          "J1911",
+          "J2001",
+          "J2006",
+          "J2101",
+          "J2106",
+          "J2301",
+          "J2306",
+          "J2401",
+          "J2406",
+          "J2411",
+          "J2501",
+          "J2506",
+          "J2601",
+          "J2606",
+          "J2701",
+          "J2706",
+          "J2801",
+          "J2806",
+          "J2901",
+          "J2906",
+          "J2911",
+          "J3001",
+          "J3006",
+          "J3101",
+          "J3106"
+        ],
+        "non_random_periods": [
+          "P09",
+          "P22"
+        ],
+        "note": "诊断样本不并入随机轮换因果比较，仅用于适用性判断"
+      }
+    },
+    "ladder-a": {
+      "support": {
+        "policy_version": "ladder-a",
+        "area": "海湾和港城",
+        "overall": "有证据可采用",
+        "gaps": [],
+        "plans": [
+          {
+            "plan": "semi",
+            "policy_price": 540.0,
+            "observed_prices": [
+              480.0,
+              540.0
+            ],
+            "verdict": "有证据可采用",
+            "segments_observed": [
+              "短时/自携童车",
+              "短时/通用",
+              "长时/自携童车",
+              "长时/通用"
+            ],
+            "segments_missing": []
+          },
+          {
+            "plan": "day",
+            "policy_price": 720.0,
+            "observed_prices": [
+              720.0,
+              780.0
+            ],
+            "verdict": "有证据可采用",
+            "segments_observed": [
+              "短时/自携童车",
+              "短时/通用",
+              "长时/自携童车",
+              "长时/通用"
+            ],
+            "segments_missing": []
+          },
+          {
+            "plan": "express",
+            "policy_price": 420.0,
+            "observed_prices": [
+              400.0,
+              420.0
+            ],
+            "verdict": "有证据可采用",
+            "segments_observed": [
+              "短时/自携童车",
+              "短时/通用",
+              "长时/自携童车",
+              "长时/通用"
+            ],
+            "segments_missing": []
+          }
+        ]
+      },
+      "demand": {
+        "cohort_size": 230,
+        "baseline_demand": {
+          "semi": 102.968,
+          "day": 62.422,
+          "express": 34.432,
+          "no_buy": 30.178
+        },
+        "policy_demand": {
+          "semi": 68.715,
+          "day": 99.456,
+          "express": 30.711,
+          "no_buy": 31.118
+        },
+        "demand_intervals": {
+          "semi": [
+            52.866,
+            86.748
+          ],
+          "day": [
+            79.289,
+            118.866
+          ],
+          "express": [
+            22.581,
+            38.767
+          ],
+          "no_buy": [
+            23.341,
+            37.559
+          ]
+        },
+        "substitution": {
+          "demand_change_by_plan": {
+            "semi": -34.2526,
+            "day": 37.0337,
+            "express": -3.7211
+          },
+          "net_increment_from_no_buy": -0.94,
+          "note": "逐对套餐替代流向在聚合选择数据上不可识别，仅报告可识别的总量分解"
+        },
+        "net_increment": -0.585,
+        "net_increment_interval": [
+          -10.929,
+          9.104
+        ],
+        "support_gaps": []
+      },
+      "margin": {
+        "unit_margin": {
+          "base": {
+            "semi": 252.0,
+            "day": 385.0,
+            "express": 189.0
+          },
+          "ladder-a": {
+            "semi": 312.0,
+            "day": 325.0,
+            "express": 209.0
+          }
+        },
+        "total_margin_interval": {
+          "base": [
+            54178.2,
+            59232.44
+          ],
+          "ladder-a": [
+            58350.64,
+            62938.44
+          ]
+        },
+        "delta_margin_mean": 3694.14,
+        "delta_margin_interval": [
+          174.7,
+          7201.26
+        ],
+        "cost_components": {
+          "semi": {
+            "vehicle_cost": 180.0,
+            "transfer": 30.0,
+            "operator_coupon": 18.0
+          },
+          "day": {
+            "vehicle_cost": 360.0,
+            "transfer": 0.0,
+            "operator_coupon": 35.0
+          },
+          "express": {
+            "vehicle_cost": 135.0,
+            "transfer": 65.0,
+            "operator_coupon": 11.0
+          }
+        }
+      },
+      "finalizable_periods": [
+        "P00",
+        "P01",
+        "P02",
+        "P04",
+        "P05",
+        "P06",
+        "P07",
+        "P08",
+        "P10",
+        "P11",
+        "P12",
+        "P13",
+        "P14",
+        "P15",
+        "P16",
+        "P17",
+        "P19",
+        "P20",
+        "P21",
+        "P23",
+        "P25",
+        "P26",
+        "P27",
+        "P28",
+        "P29",
+        "P30",
+        "P31"
+      ],
+      "blocked_periods": [
+        "P03",
+        "P18",
+        "P24"
+      ],
+      "feasibility": {
+        "P00": {
+          "period": "P00",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            3.95,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P01": {
+          "period": "P01",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P02": {
+          "period": "P02",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P03": {
+          "period": "P03",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "暂缓定案：售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个",
+          "feasible_rate": 0.73,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": [
+            "售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个"
+          ]
+        },
+        "P04": {
+          "period": "P04",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P05": {
+          "period": "P05",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P06": {
+          "period": "P06",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P07": {
+          "period": "P07",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P08": {
+          "period": "P08",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P10": {
+          "period": "P10",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P11": {
+          "period": "P11",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            4.95,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P12": {
+          "period": "P12",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P13": {
+          "period": "P13",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P14": {
+          "period": "P14",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P15": {
+          "period": "P15",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P16": {
+          "period": "P16",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P17": {
+          "period": "P17",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P18": {
+          "period": "P18",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "暂缓定案：售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个",
+          "feasible_rate": 0.7333,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": [
+            "售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个"
+          ]
+        },
+        "P19": {
+          "period": "P19",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P20": {
+          "period": "P20",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            3.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P21": {
+          "period": "P21",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P23": {
+          "period": "P23",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            7.0,
+            10.0
+          ],
+          "reserved_slots": 1.0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            140.0,
+            140.0
+          ],
+          "reserved_credit": 70.0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P24": {
+          "period": "P24",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "暂缓定案：售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个",
+          "feasible_rate": 0.7167,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": [
+            "售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个"
+          ]
+        },
+        "P25": {
+          "period": "P25",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            7.0
+          ],
+          "reserved_slots": 1.0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            60.0,
+            60.0
+          ],
+          "reserved_credit": 30.0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P26": {
+          "period": "P26",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P27": {
+          "period": "P27",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P28": {
+          "period": "P28",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P29": {
+          "period": "P29",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P30": {
+          "period": "P30",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        },
+        "P31": {
+          "period": "P31",
+          "policy_version": "ladder-a",
+          "mode": "定案",
+          "decision": "可定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 210.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": true,
+          "scope_violations": [],
+          "support_gaps": [],
+          "reasons": []
+        }
+      },
+      "diagnostics": {
+        "old_choice_journeys": [
+          "J0001",
+          "J0006",
+          "J0101",
+          "J0106",
+          "J0201",
+          "J0206",
+          "J0301",
+          "J0306",
+          "J0401",
+          "J0406",
+          "J0411",
+          "J0501",
+          "J0506",
+          "J0601",
+          "J0606",
+          "J0701",
+          "J0706",
+          "J0801",
+          "J0806",
+          "J1001",
+          "J1006",
+          "J1101",
+          "J1106",
+          "J1201",
+          "J1206",
+          "J1301",
+          "J1306",
+          "J1401",
+          "J1406",
+          "J1411",
+          "J1501",
+          "J1506",
+          "J1601",
+          "J1606",
+          "J1701",
+          "J1706",
+          "J1801",
+          "J1806",
+          "J1901",
+          "J1906",
+          "J1911",
+          "J2001",
+          "J2006",
+          "J2101",
+          "J2106",
+          "J2301",
+          "J2306",
+          "J2401",
+          "J2406",
+          "J2411",
+          "J2501",
+          "J2506",
+          "J2601",
+          "J2606",
+          "J2701",
+          "J2706",
+          "J2801",
+          "J2806",
+          "J2901",
+          "J2906",
+          "J2911",
+          "J3001",
+          "J3006",
+          "J3101",
+          "J3106"
+        ],
+        "non_random_periods": [
+          "P09",
+          "P22"
+        ],
+        "note": "诊断样本不并入随机轮换因果比较，仅用于适用性判断"
+      }
+    },
+    "ladder-b": {
+      "support": {
+        "policy_version": "ladder-b",
+        "area": "港城",
+        "overall": "超支持范围仅可试探",
+        "gaps": [
+          "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+          "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+          "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+        ],
+        "plans": [
+          {
+            "plan": "semi",
+            "policy_price": 580.0,
+            "observed_prices": [
+              480.0,
+              540.0
+            ],
+            "verdict": "超支持范围仅可试探",
+            "segments_observed": [
+              "短时/自携童车",
+              "短时/通用",
+              "长时/自携童车",
+              "长时/通用"
+            ],
+            "segments_missing": []
+          },
+          {
+            "plan": "day",
+            "policy_price": 700.0,
+            "observed_prices": [
+              720.0,
+              780.0
+            ],
+            "verdict": "超支持范围仅可试探",
+            "segments_observed": [
+              "短时/自携童车",
+              "短时/通用",
+              "长时/自携童车",
+              "长时/通用"
+            ],
+            "segments_missing": []
+          },
+          {
+            "plan": "express",
+            "policy_price": 380.0,
+            "observed_prices": [
+              400.0,
+              420.0
+            ],
+            "verdict": "超支持范围仅可试探",
+            "segments_observed": [
+              "短时/自携童车",
+              "短时/通用",
+              "长时/自携童车",
+              "长时/通用"
+            ],
+            "segments_missing": []
+          }
+        ]
+      },
+      "demand": {
+        "cohort_size": 115,
+        "baseline_demand": {
+          "semi": 51.484,
+          "day": 31.211,
+          "express": 17.216,
+          "no_buy": 15.089
+        },
+        "policy_demand": {
+          "semi": 24.784,
+          "day": 55.428,
+          "express": 19.787,
+          "no_buy": 15.001
+        },
+        "demand_intervals": {
+          "semi": [
+            14.77,
+            40.009
+          ],
+          "day": [
+            39.989,
+            67.893
+          ],
+          "express": [
+            13.543,
+            25.127
+          ],
+          "no_buy": [
+            11.151,
+            17.974
+          ]
+        },
+        "substitution": {
+          "demand_change_by_plan": {
+            "semi": -26.6995,
+            "day": 24.2166,
+            "express": 2.571
+          },
+          "net_increment_from_no_buy": 0.0881,
+          "note": "逐对套餐替代流向在聚合选择数据上不可识别，仅报告可识别的总量分解"
+        },
+        "net_increment": 0.254,
+        "net_increment_interval": [
+          -4.837,
+          5.218
+        ],
+        "support_gaps": [
+          "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+          "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+          "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+        ]
+      },
+      "margin": {
+        "unit_margin": {
+          "base": {
+            "semi": 252.0,
+            "day": 385.0,
+            "express": 189.0
+          },
+          "ladder-b": {
+            "semi": 352.0,
+            "day": 305.0,
+            "express": 169.0
+          }
+        },
+        "total_margin_interval": {
+          "base": [
+            27043.58,
+            29736.57
+          ],
+          "ladder-b": [
+            27826.24,
+            30508.17
+          ]
+        },
+        "delta_margin_mean": 857.61,
+        "delta_margin_interval": [
+          -999.76,
+          2959.38
+        ],
+        "cost_components": {
+          "semi": {
+            "vehicle_cost": 180.0,
+            "transfer": 30.0,
+            "operator_coupon": 18.0
+          },
+          "day": {
+            "vehicle_cost": 360.0,
+            "transfer": 0.0,
+            "operator_coupon": 35.0
+          },
+          "express": {
+            "vehicle_cost": 135.0,
+            "transfer": 65.0,
+            "operator_coupon": 11.0
+          }
+        }
+      },
+      "finalizable_periods": [],
+      "blocked_periods": [
+        "P02",
+        "P03",
+        "P06",
+        "P07",
+        "P10",
+        "P11",
+        "P14",
+        "P15",
+        "P18",
+        "P19",
+        "P23",
+        "P26",
+        "P27",
+        "P30",
+        "P31"
+      ],
+      "feasibility": {
+        "P02": {
+          "period": "P02",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P03": {
+          "period": "P03",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个；存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 0.7133,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个",
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P06": {
+          "period": "P06",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            5.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P07": {
+          "period": "P07",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P10": {
+          "period": "P10",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P11": {
+          "period": "P11",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P14": {
+          "period": "P14",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P15": {
+          "period": "P15",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P18": {
+          "period": "P18",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个；存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 0.6533,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "售出车位在 90% 支持水平下达 9.0 个，超过时段可售量 8 个",
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P19": {
+          "period": "P19",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            6.0,
+            9.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P23": {
+          "period": "P23",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            7.0,
+            10.0
+          ],
+          "reserved_slots": 1.0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            100.0,
+            100.0
+          ],
+          "reserved_credit": 50.0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P26": {
+          "period": "P26",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 10.0,
+          "slot_quantile": [
+            4.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P27": {
+          "period": "P27",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            5.0,
+            8.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P30": {
+          "period": "P30",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 8.0,
+          "slot_quantile": [
+            4.0,
+            6.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        },
+        "P31": {
+          "period": "P31",
+          "policy_version": "ladder-b",
+          "mode": "定案",
+          "decision": "暂缓定案：存在共同支持缺口，超范围价格只能试探不能定案",
+          "feasible_rate": 1.0,
+          "sellable_slots": 9.0,
+          "slot_quantile": [
+            5.0,
+            7.0
+          ],
+          "reserved_slots": 0,
+          "credit_ceiling": 140.0,
+          "credit_quantile": [
+            0.0,
+            0.0
+          ],
+          "reserved_credit": 0,
+          "scope_ok": true,
+          "support_ok": false,
+          "scope_violations": [],
+          "support_gaps": [
+            "semi 拟刊价 580 元不在 港城 观察价格档 [480, 540] 内，属超支持试探",
+            "day 拟刊价 700 元不在 港城 观察价格档 [720, 780] 内，属超支持试探",
+            "express 拟刊价 380 元不在 港城 观察价格档 [400, 420] 内，属超支持试探"
+          ],
+          "reasons": [
+            "存在共同支持缺口，超范围价格只能试探不能定案"
+          ]
+        }
+      },
+      "diagnostics": {
+        "old_choice_journeys": [
+          "J0201",
+          "J0206",
+          "J0301",
+          "J0306",
+          "J0601",
+          "J0606",
+          "J0701",
+          "J0706",
+          "J1001",
+          "J1006",
+          "J1101",
+          "J1106",
+          "J1401",
+          "J1406",
+          "J1411",
+          "J1501",
+          "J1506",
+          "J1801",
+          "J1806",
+          "J1901",
+          "J1906",
+          "J1911",
+          "J2301",
+          "J2306",
+          "J2601",
+          "J2606",
+          "J2701",
+          "J2706",
+          "J3001",
+          "J3006",
+          "J3101",
+          "J3106"
+        ],
+        "non_random_periods": [
+          "P22"
+        ],
+        "note": "诊断样本不并入随机轮换因果比较，仅用于适用性判断"
+      }
+    }
+  },
+  "manual_queue": [
+    {
+      "type": "paid_price_mismatch",
+      "message": "旅程 J0401 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+      "refs": {
+        "journey": "J0401",
+        "plan": "express",
+        "paid": 400.0
+      }
+    },
+    {
+      "type": "paid_price_mismatch",
+      "message": "旅程 J0606 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+      "refs": {
+        "journey": "J0606",
+        "plan": "express",
+        "paid": 400.0
+      }
+    },
+    {
+      "type": "paid_price_mismatch",
+      "message": "旅程 J1606 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+      "refs": {
+        "journey": "J1606",
+        "plan": "express",
+        "paid": 400.0
+      }
+    },
+    {
+      "type": "paid_price_mismatch",
+      "message": "旅程 J1906 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+      "refs": {
+        "journey": "J1906",
+        "plan": "express",
+        "paid": 400.0
+      }
+    },
+    {
+      "type": "paid_price_mismatch",
+      "message": "旅程 J1911 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+      "refs": {
+        "journey": "J1911",
+        "plan": "express",
+        "paid": 400.0
+      }
+    },
+    {
+      "type": "paid_price_mismatch",
+      "message": "旅程 J2706 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+      "refs": {
+        "journey": "J2706",
+        "plan": "express",
+        "paid": 400.0
+      }
+    },
+    {
+      "type": "paid_price_mismatch",
+      "message": "旅程 J2801 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+      "refs": {
+        "journey": "J2801",
+        "plan": "express",
+        "paid": 400.0
+      }
+    },
+    {
+      "type": "paid_price_mismatch",
+      "message": "旅程 J3106 实收 400 元与任何触达所见 express 价格 420 元均不符，承诺需人工核对",
+      "refs": {
+        "journey": "J3106",
+        "plan": "express",
+        "paid": 400.0
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P02 已过收齐日 2026-06-04，旅程 J0207 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0207",
+        "period": "P02"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P03 已过收齐日 2026-06-05，旅程 J0307 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0307",
+        "period": "P03"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P04 已过收齐日 2026-06-06，旅程 J0402 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0402",
+        "period": "P04"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P04 已过收齐日 2026-06-06，旅程 J0405 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0405",
+        "period": "P04"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P04 已过收齐日 2026-06-06，旅程 J0410 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0410",
+        "period": "P04"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P07 已过收齐日 2026-06-09，旅程 J0707 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0707",
+        "period": "P07"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P08 已过收齐日 2026-06-10，旅程 J0804 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0804",
+        "period": "P08"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P08 已过收齐日 2026-06-10，旅程 J0810 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0810",
+        "period": "P08"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P09 已过收齐日 2026-06-11，旅程 J0904 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0904",
+        "period": "P09"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P09 已过收齐日 2026-06-11，旅程 J0907 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0907",
+        "period": "P09"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P09 已过收齐日 2026-06-11，旅程 J0908 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0908",
+        "period": "P09"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P09 已过收齐日 2026-06-11，旅程 J0911 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J0911",
+        "period": "P09"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P11 已过收齐日 2026-06-13，旅程 J1105 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1105",
+        "period": "P11"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P12 已过收齐日 2026-06-14，旅程 J1201 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1201",
+        "period": "P12"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P12 已过收齐日 2026-06-14，旅程 J1204 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1204",
+        "period": "P12"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P13 已过收齐日 2026-06-15，旅程 J1304 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1304",
+        "period": "P13"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P13 已过收齐日 2026-06-15，旅程 J1305 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1305",
+        "period": "P13"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P13 已过收齐日 2026-06-15，旅程 J1310 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1310",
+        "period": "P13"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P14 已过收齐日 2026-06-16，旅程 J1401 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1401",
+        "period": "P14"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P14 已过收齐日 2026-06-16，旅程 J1405 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1405",
+        "period": "P14"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P14 已过收齐日 2026-06-16，旅程 J1407 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1407",
+        "period": "P14"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P14 已过收齐日 2026-06-16，旅程 J1410 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1410",
+        "period": "P14"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P15 已过收齐日 2026-06-17，旅程 J1501 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1501",
+        "period": "P15"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P16 已过收齐日 2026-06-18，旅程 J1605 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1605",
+        "period": "P16"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P17 已过收齐日 2026-06-19，旅程 J1705 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1705",
+        "period": "P17"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P18 已过收齐日 2026-06-20，旅程 J1805 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1805",
+        "period": "P18"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P18 已过收齐日 2026-06-20，旅程 J1808 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1808",
+        "period": "P18"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P18 已过收齐日 2026-06-20，旅程 J1810 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1810",
+        "period": "P18"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P19 已过收齐日 2026-06-21，旅程 J1908 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1908",
+        "period": "P19"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P19 已过收齐日 2026-06-21，旅程 J1910 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J1910",
+        "period": "P19"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P20 已过收齐日 2026-06-22，旅程 J2005 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2005",
+        "period": "P20"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P21 已过收齐日 2026-06-23，旅程 J2105 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2105",
+        "period": "P21"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P22 已过收齐日 2026-06-24，旅程 J2205 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2205",
+        "period": "P22"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P23 已过收齐日 2026-06-25，旅程 J2310 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2310",
+        "period": "P23"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P24 已过收齐日 2026-06-26，旅程 J2405 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2405",
+        "period": "P24"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P24 已过收齐日 2026-06-26，旅程 J2408 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2408",
+        "period": "P24"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P26 已过收齐日 2026-06-28，旅程 J2604 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2604",
+        "period": "P26"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P26 已过收齐日 2026-06-28，旅程 J2607 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2607",
+        "period": "P26"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P28 已过收齐日 2026-06-30，旅程 J2804 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2804",
+        "period": "P28"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P29 已过收齐日 2026-07-01，旅程 J2910 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2910",
+        "period": "P29"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P29 已过收齐日 2026-07-01，旅程 J2911 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J2911",
+        "period": "P29"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P30 已过收齐日 2026-07-02，旅程 J3002 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J3002",
+        "period": "P30"
+      }
+    },
+    {
+      "type": "closed_period_missing_fulfilment",
+      "message": "时段 P31 已过收齐日 2026-07-03，旅程 J3105 仍无付款/履约记录，按未转化处理但需复核",
+      "refs": {
+        "journey": "J3105",
+        "period": "P31"
+      }
+    }
+  ]
+}
