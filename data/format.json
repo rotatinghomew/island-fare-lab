@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "periods": [
+      "period",
+      "day",
+      "area",
+      "window",
+      "arm",
+      "random",
+      "fleet_hours",
+      "closed_at"
+    ],
+    "journeys": [
+      "journey",
+      "period",
+      "requested_at",
+      "length_hours",
+      "party",
+      "needs"
+    ],
+    "exposures": [
+      "exposure",
+      "journey",
+      "channel",
+      "seen_at",
+      "options",
+      "prices",
+      "old_choice"
+    ],
+    "fulfilment": [
+      "journey",
+      "plan",
+      "paid",
+      "use",
+      "paid_at",
+      "received_day"
+    ],
+    "catalog": [
+      "plan",
+      "hours",
+      "transfer",
+      "operator_coupon",
+      "hour_cost"
+    ],
+    "quote_rights": [
+      "quote",
+      "period",
+      "origin",
+      "price",
+      "alternatives",
+      "until",
+      "state",
+      "change_at"
+    ],
+    "policies": [
+      "version",
+      "area",
+      "plans",
+      "credit_ceiling",
+      "support_level"
+    ]
+  },
+  "references": [
+    [
+      "journeys",
+      "period",
+      "periods",
+      "period"
+    ],
+    [
+      "exposures",
+      "journey",
+      "journeys",
+      "journey"
+    ],
+    [
+      "fulfilment",
+      "journey",
+      "journeys",
+      "journey"
+    ],
+    [
+      "fulfilment",
+      "plan",
+      "catalog",
+      "plan"
+    ],
+    [
+      "quote_rights",
+      "period",
+      "periods",
+      "period"
+    ]
+  ]
+}

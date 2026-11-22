@@ -1,0 +1,2538 @@
+[
+  {
+    "journey": "J0000",
+    "period": "P00",
+    "requested_at": "2026-06-01T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0001",
+    "period": "P00",
+    "requested_at": "2026-06-01T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0002",
+    "period": "P00",
+    "requested_at": "2026-06-01T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0003",
+    "period": "P00",
+    "requested_at": "2026-06-01T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0004",
+    "period": "P00",
+    "requested_at": "2026-06-01T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0005",
+    "period": "P00",
+    "requested_at": "2026-06-01T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0006",
+    "period": "P00",
+    "requested_at": "2026-06-01T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0007",
+    "period": "P00",
+    "requested_at": "2026-06-01T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0100",
+    "period": "P01",
+    "requested_at": "2026-06-02T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0101",
+    "period": "P01",
+    "requested_at": "2026-06-02T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0102",
+    "period": "P01",
+    "requested_at": "2026-06-02T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0103",
+    "period": "P01",
+    "requested_at": "2026-06-02T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0104",
+    "period": "P01",
+    "requested_at": "2026-06-02T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0105",
+    "period": "P01",
+    "requested_at": "2026-06-02T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0106",
+    "period": "P01",
+    "requested_at": "2026-06-02T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0107",
+    "period": "P01",
+    "requested_at": "2026-06-02T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0108",
+    "period": "P01",
+    "requested_at": "2026-06-02T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0200",
+    "period": "P02",
+    "requested_at": "2026-06-03T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0201",
+    "period": "P02",
+    "requested_at": "2026-06-03T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0202",
+    "period": "P02",
+    "requested_at": "2026-06-03T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0203",
+    "period": "P02",
+    "requested_at": "2026-06-03T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0204",
+    "period": "P02",
+    "requested_at": "2026-06-03T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0205",
+    "period": "P02",
+    "requested_at": "2026-06-03T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0206",
+    "period": "P02",
+    "requested_at": "2026-06-03T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0207",
+    "period": "P02",
+    "requested_at": "2026-06-03T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0208",
+    "period": "P02",
+    "requested_at": "2026-06-03T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0209",
+    "period": "P02",
+    "requested_at": "2026-06-03T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0300",
+    "period": "P03",
+    "requested_at": "2026-06-04T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0301",
+    "period": "P03",
+    "requested_at": "2026-06-04T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0302",
+    "period": "P03",
+    "requested_at": "2026-06-04T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0303",
+    "period": "P03",
+    "requested_at": "2026-06-04T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0304",
+    "period": "P03",
+    "requested_at": "2026-06-04T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0305",
+    "period": "P03",
+    "requested_at": "2026-06-04T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0306",
+    "period": "P03",
+    "requested_at": "2026-06-04T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0307",
+    "period": "P03",
+    "requested_at": "2026-06-04T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0308",
+    "period": "P03",
+    "requested_at": "2026-06-04T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0309",
+    "period": "P03",
+    "requested_at": "2026-06-04T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0310",
+    "period": "P03",
+    "requested_at": "2026-06-04T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0400",
+    "period": "P04",
+    "requested_at": "2026-06-05T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0401",
+    "period": "P04",
+    "requested_at": "2026-06-05T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0402",
+    "period": "P04",
+    "requested_at": "2026-06-05T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0403",
+    "period": "P04",
+    "requested_at": "2026-06-05T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0404",
+    "period": "P04",
+    "requested_at": "2026-06-05T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0405",
+    "period": "P04",
+    "requested_at": "2026-06-05T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0406",
+    "period": "P04",
+    "requested_at": "2026-06-05T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0407",
+    "period": "P04",
+    "requested_at": "2026-06-05T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0408",
+    "period": "P04",
+    "requested_at": "2026-06-05T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0409",
+    "period": "P04",
+    "requested_at": "2026-06-05T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0410",
+    "period": "P04",
+    "requested_at": "2026-06-05T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0411",
+    "period": "P04",
+    "requested_at": "2026-06-05T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0500",
+    "period": "P05",
+    "requested_at": "2026-06-06T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0501",
+    "period": "P05",
+    "requested_at": "2026-06-06T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0502",
+    "period": "P05",
+    "requested_at": "2026-06-06T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0503",
+    "period": "P05",
+    "requested_at": "2026-06-06T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0504",
+    "period": "P05",
+    "requested_at": "2026-06-06T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0505",
+    "period": "P05",
+    "requested_at": "2026-06-06T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0506",
+    "period": "P05",
+    "requested_at": "2026-06-06T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0507",
+    "period": "P05",
+    "requested_at": "2026-06-06T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0600",
+    "period": "P06",
+    "requested_at": "2026-06-07T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0601",
+    "period": "P06",
+    "requested_at": "2026-06-07T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0602",
+    "period": "P06",
+    "requested_at": "2026-06-07T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0603",
+    "period": "P06",
+    "requested_at": "2026-06-07T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0604",
+    "period": "P06",
+    "requested_at": "2026-06-07T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0605",
+    "period": "P06",
+    "requested_at": "2026-06-07T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0606",
+    "period": "P06",
+    "requested_at": "2026-06-07T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0607",
+    "period": "P06",
+    "requested_at": "2026-06-07T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0608",
+    "period": "P06",
+    "requested_at": "2026-06-07T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0700",
+    "period": "P07",
+    "requested_at": "2026-06-08T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0701",
+    "period": "P07",
+    "requested_at": "2026-06-08T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0702",
+    "period": "P07",
+    "requested_at": "2026-06-08T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0703",
+    "period": "P07",
+    "requested_at": "2026-06-08T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0704",
+    "period": "P07",
+    "requested_at": "2026-06-08T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0705",
+    "period": "P07",
+    "requested_at": "2026-06-08T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0706",
+    "period": "P07",
+    "requested_at": "2026-06-08T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0707",
+    "period": "P07",
+    "requested_at": "2026-06-08T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0708",
+    "period": "P07",
+    "requested_at": "2026-06-08T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0709",
+    "period": "P07",
+    "requested_at": "2026-06-08T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0800",
+    "period": "P08",
+    "requested_at": "2026-06-09T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0801",
+    "period": "P08",
+    "requested_at": "2026-06-09T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0802",
+    "period": "P08",
+    "requested_at": "2026-06-09T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0803",
+    "period": "P08",
+    "requested_at": "2026-06-09T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0804",
+    "period": "P08",
+    "requested_at": "2026-06-09T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0805",
+    "period": "P08",
+    "requested_at": "2026-06-09T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0806",
+    "period": "P08",
+    "requested_at": "2026-06-09T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0807",
+    "period": "P08",
+    "requested_at": "2026-06-09T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0808",
+    "period": "P08",
+    "requested_at": "2026-06-09T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0809",
+    "period": "P08",
+    "requested_at": "2026-06-09T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0810",
+    "period": "P08",
+    "requested_at": "2026-06-09T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0900",
+    "period": "P09",
+    "requested_at": "2026-06-10T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0901",
+    "period": "P09",
+    "requested_at": "2026-06-10T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0902",
+    "period": "P09",
+    "requested_at": "2026-06-10T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0903",
+    "period": "P09",
+    "requested_at": "2026-06-10T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0904",
+    "period": "P09",
+    "requested_at": "2026-06-10T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0905",
+    "period": "P09",
+    "requested_at": "2026-06-10T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0906",
+    "period": "P09",
+    "requested_at": "2026-06-10T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0907",
+    "period": "P09",
+    "requested_at": "2026-06-10T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0908",
+    "period": "P09",
+    "requested_at": "2026-06-10T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J0909",
+    "period": "P09",
+    "requested_at": "2026-06-10T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0910",
+    "period": "P09",
+    "requested_at": "2026-06-10T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J0911",
+    "period": "P09",
+    "requested_at": "2026-06-10T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1000",
+    "period": "P10",
+    "requested_at": "2026-06-11T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1001",
+    "period": "P10",
+    "requested_at": "2026-06-11T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1002",
+    "period": "P10",
+    "requested_at": "2026-06-11T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1003",
+    "period": "P10",
+    "requested_at": "2026-06-11T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1004",
+    "period": "P10",
+    "requested_at": "2026-06-11T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1005",
+    "period": "P10",
+    "requested_at": "2026-06-11T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1006",
+    "period": "P10",
+    "requested_at": "2026-06-11T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1007",
+    "period": "P10",
+    "requested_at": "2026-06-11T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1100",
+    "period": "P11",
+    "requested_at": "2026-06-12T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1101",
+    "period": "P11",
+    "requested_at": "2026-06-12T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1102",
+    "period": "P11",
+    "requested_at": "2026-06-12T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1103",
+    "period": "P11",
+    "requested_at": "2026-06-12T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1104",
+    "period": "P11",
+    "requested_at": "2026-06-12T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1105",
+    "period": "P11",
+    "requested_at": "2026-06-12T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1106",
+    "period": "P11",
+    "requested_at": "2026-06-12T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1107",
+    "period": "P11",
+    "requested_at": "2026-06-12T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1108",
+    "period": "P11",
+    "requested_at": "2026-06-12T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1200",
+    "period": "P12",
+    "requested_at": "2026-06-13T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1201",
+    "period": "P12",
+    "requested_at": "2026-06-13T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1202",
+    "period": "P12",
+    "requested_at": "2026-06-13T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1203",
+    "period": "P12",
+    "requested_at": "2026-06-13T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1204",
+    "period": "P12",
+    "requested_at": "2026-06-13T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1205",
+    "period": "P12",
+    "requested_at": "2026-06-13T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1206",
+    "period": "P12",
+    "requested_at": "2026-06-13T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1207",
+    "period": "P12",
+    "requested_at": "2026-06-13T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1208",
+    "period": "P12",
+    "requested_at": "2026-06-13T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1209",
+    "period": "P12",
+    "requested_at": "2026-06-13T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1300",
+    "period": "P13",
+    "requested_at": "2026-06-14T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1301",
+    "period": "P13",
+    "requested_at": "2026-06-14T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1302",
+    "period": "P13",
+    "requested_at": "2026-06-14T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1303",
+    "period": "P13",
+    "requested_at": "2026-06-14T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1304",
+    "period": "P13",
+    "requested_at": "2026-06-14T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1305",
+    "period": "P13",
+    "requested_at": "2026-06-14T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1306",
+    "period": "P13",
+    "requested_at": "2026-06-14T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1307",
+    "period": "P13",
+    "requested_at": "2026-06-14T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1308",
+    "period": "P13",
+    "requested_at": "2026-06-14T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1309",
+    "period": "P13",
+    "requested_at": "2026-06-14T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1310",
+    "period": "P13",
+    "requested_at": "2026-06-14T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1400",
+    "period": "P14",
+    "requested_at": "2026-06-15T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1401",
+    "period": "P14",
+    "requested_at": "2026-06-15T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1402",
+    "period": "P14",
+    "requested_at": "2026-06-15T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1403",
+    "period": "P14",
+    "requested_at": "2026-06-15T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1404",
+    "period": "P14",
+    "requested_at": "2026-06-15T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1405",
+    "period": "P14",
+    "requested_at": "2026-06-15T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1406",
+    "period": "P14",
+    "requested_at": "2026-06-15T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1407",
+    "period": "P14",
+    "requested_at": "2026-06-15T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1408",
+    "period": "P14",
+    "requested_at": "2026-06-15T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1409",
+    "period": "P14",
+    "requested_at": "2026-06-15T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1410",
+    "period": "P14",
+    "requested_at": "2026-06-15T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1411",
+    "period": "P14",
+    "requested_at": "2026-06-15T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1500",
+    "period": "P15",
+    "requested_at": "2026-06-16T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1501",
+    "period": "P15",
+    "requested_at": "2026-06-16T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1502",
+    "period": "P15",
+    "requested_at": "2026-06-16T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1503",
+    "period": "P15",
+    "requested_at": "2026-06-16T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1504",
+    "period": "P15",
+    "requested_at": "2026-06-16T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1505",
+    "period": "P15",
+    "requested_at": "2026-06-16T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1506",
+    "period": "P15",
+    "requested_at": "2026-06-16T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1507",
+    "period": "P15",
+    "requested_at": "2026-06-16T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1600",
+    "period": "P16",
+    "requested_at": "2026-06-17T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1601",
+    "period": "P16",
+    "requested_at": "2026-06-17T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1602",
+    "period": "P16",
+    "requested_at": "2026-06-17T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1603",
+    "period": "P16",
+    "requested_at": "2026-06-17T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1604",
+    "period": "P16",
+    "requested_at": "2026-06-17T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1605",
+    "period": "P16",
+    "requested_at": "2026-06-17T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1606",
+    "period": "P16",
+    "requested_at": "2026-06-17T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1607",
+    "period": "P16",
+    "requested_at": "2026-06-17T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1608",
+    "period": "P16",
+    "requested_at": "2026-06-17T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1700",
+    "period": "P17",
+    "requested_at": "2026-06-18T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1701",
+    "period": "P17",
+    "requested_at": "2026-06-18T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1702",
+    "period": "P17",
+    "requested_at": "2026-06-18T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1703",
+    "period": "P17",
+    "requested_at": "2026-06-18T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1704",
+    "period": "P17",
+    "requested_at": "2026-06-18T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1705",
+    "period": "P17",
+    "requested_at": "2026-06-18T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1706",
+    "period": "P17",
+    "requested_at": "2026-06-18T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1707",
+    "period": "P17",
+    "requested_at": "2026-06-18T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1708",
+    "period": "P17",
+    "requested_at": "2026-06-18T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1709",
+    "period": "P17",
+    "requested_at": "2026-06-18T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1800",
+    "period": "P18",
+    "requested_at": "2026-06-19T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1801",
+    "period": "P18",
+    "requested_at": "2026-06-19T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1802",
+    "period": "P18",
+    "requested_at": "2026-06-19T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1803",
+    "period": "P18",
+    "requested_at": "2026-06-19T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1804",
+    "period": "P18",
+    "requested_at": "2026-06-19T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1805",
+    "period": "P18",
+    "requested_at": "2026-06-19T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1806",
+    "period": "P18",
+    "requested_at": "2026-06-19T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1807",
+    "period": "P18",
+    "requested_at": "2026-06-19T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1808",
+    "period": "P18",
+    "requested_at": "2026-06-19T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1809",
+    "period": "P18",
+    "requested_at": "2026-06-19T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1810",
+    "period": "P18",
+    "requested_at": "2026-06-19T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1900",
+    "period": "P19",
+    "requested_at": "2026-06-20T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1901",
+    "period": "P19",
+    "requested_at": "2026-06-20T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1902",
+    "period": "P19",
+    "requested_at": "2026-06-20T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1903",
+    "period": "P19",
+    "requested_at": "2026-06-20T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1904",
+    "period": "P19",
+    "requested_at": "2026-06-20T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1905",
+    "period": "P19",
+    "requested_at": "2026-06-20T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1906",
+    "period": "P19",
+    "requested_at": "2026-06-20T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1907",
+    "period": "P19",
+    "requested_at": "2026-06-20T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1908",
+    "period": "P19",
+    "requested_at": "2026-06-20T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J1909",
+    "period": "P19",
+    "requested_at": "2026-06-20T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1910",
+    "period": "P19",
+    "requested_at": "2026-06-20T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J1911",
+    "period": "P19",
+    "requested_at": "2026-06-20T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2000",
+    "period": "P20",
+    "requested_at": "2026-06-21T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2001",
+    "period": "P20",
+    "requested_at": "2026-06-21T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2002",
+    "period": "P20",
+    "requested_at": "2026-06-21T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2003",
+    "period": "P20",
+    "requested_at": "2026-06-21T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2004",
+    "period": "P20",
+    "requested_at": "2026-06-21T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2005",
+    "period": "P20",
+    "requested_at": "2026-06-21T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2006",
+    "period": "P20",
+    "requested_at": "2026-06-21T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2007",
+    "period": "P20",
+    "requested_at": "2026-06-21T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2100",
+    "period": "P21",
+    "requested_at": "2026-06-22T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2101",
+    "period": "P21",
+    "requested_at": "2026-06-22T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2102",
+    "period": "P21",
+    "requested_at": "2026-06-22T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2103",
+    "period": "P21",
+    "requested_at": "2026-06-22T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2104",
+    "period": "P21",
+    "requested_at": "2026-06-22T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2105",
+    "period": "P21",
+    "requested_at": "2026-06-22T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2106",
+    "period": "P21",
+    "requested_at": "2026-06-22T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2107",
+    "period": "P21",
+    "requested_at": "2026-06-22T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2108",
+    "period": "P21",
+    "requested_at": "2026-06-22T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2200",
+    "period": "P22",
+    "requested_at": "2026-06-23T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2201",
+    "period": "P22",
+    "requested_at": "2026-06-23T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2202",
+    "period": "P22",
+    "requested_at": "2026-06-23T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2203",
+    "period": "P22",
+    "requested_at": "2026-06-23T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2204",
+    "period": "P22",
+    "requested_at": "2026-06-23T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2205",
+    "period": "P22",
+    "requested_at": "2026-06-23T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2206",
+    "period": "P22",
+    "requested_at": "2026-06-23T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2207",
+    "period": "P22",
+    "requested_at": "2026-06-23T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2208",
+    "period": "P22",
+    "requested_at": "2026-06-23T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2209",
+    "period": "P22",
+    "requested_at": "2026-06-23T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2300",
+    "period": "P23",
+    "requested_at": "2026-06-24T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2301",
+    "period": "P23",
+    "requested_at": "2026-06-24T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2302",
+    "period": "P23",
+    "requested_at": "2026-06-24T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2303",
+    "period": "P23",
+    "requested_at": "2026-06-24T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2304",
+    "period": "P23",
+    "requested_at": "2026-06-24T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2305",
+    "period": "P23",
+    "requested_at": "2026-06-24T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2306",
+    "period": "P23",
+    "requested_at": "2026-06-24T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2307",
+    "period": "P23",
+    "requested_at": "2026-06-24T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2308",
+    "period": "P23",
+    "requested_at": "2026-06-24T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2309",
+    "period": "P23",
+    "requested_at": "2026-06-24T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2310",
+    "period": "P23",
+    "requested_at": "2026-06-24T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2400",
+    "period": "P24",
+    "requested_at": "2026-06-25T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2401",
+    "period": "P24",
+    "requested_at": "2026-06-25T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2402",
+    "period": "P24",
+    "requested_at": "2026-06-25T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2403",
+    "period": "P24",
+    "requested_at": "2026-06-25T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2404",
+    "period": "P24",
+    "requested_at": "2026-06-25T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2405",
+    "period": "P24",
+    "requested_at": "2026-06-25T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2406",
+    "period": "P24",
+    "requested_at": "2026-06-25T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2407",
+    "period": "P24",
+    "requested_at": "2026-06-25T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2408",
+    "period": "P24",
+    "requested_at": "2026-06-25T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2409",
+    "period": "P24",
+    "requested_at": "2026-06-25T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2410",
+    "period": "P24",
+    "requested_at": "2026-06-25T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2411",
+    "period": "P24",
+    "requested_at": "2026-06-25T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2500",
+    "period": "P25",
+    "requested_at": "2026-06-26T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2501",
+    "period": "P25",
+    "requested_at": "2026-06-26T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2502",
+    "period": "P25",
+    "requested_at": "2026-06-26T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2503",
+    "period": "P25",
+    "requested_at": "2026-06-26T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2504",
+    "period": "P25",
+    "requested_at": "2026-06-26T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2505",
+    "period": "P25",
+    "requested_at": "2026-06-26T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2506",
+    "period": "P25",
+    "requested_at": "2026-06-26T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2507",
+    "period": "P25",
+    "requested_at": "2026-06-26T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2600",
+    "period": "P26",
+    "requested_at": "2026-06-27T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2601",
+    "period": "P26",
+    "requested_at": "2026-06-27T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2602",
+    "period": "P26",
+    "requested_at": "2026-06-27T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2603",
+    "period": "P26",
+    "requested_at": "2026-06-27T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2604",
+    "period": "P26",
+    "requested_at": "2026-06-27T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2605",
+    "period": "P26",
+    "requested_at": "2026-06-27T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2606",
+    "period": "P26",
+    "requested_at": "2026-06-27T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2607",
+    "period": "P26",
+    "requested_at": "2026-06-27T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2608",
+    "period": "P26",
+    "requested_at": "2026-06-27T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2700",
+    "period": "P27",
+    "requested_at": "2026-06-28T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2701",
+    "period": "P27",
+    "requested_at": "2026-06-28T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2702",
+    "period": "P27",
+    "requested_at": "2026-06-28T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2703",
+    "period": "P27",
+    "requested_at": "2026-06-28T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2704",
+    "period": "P27",
+    "requested_at": "2026-06-28T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2705",
+    "period": "P27",
+    "requested_at": "2026-06-28T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2706",
+    "period": "P27",
+    "requested_at": "2026-06-28T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2707",
+    "period": "P27",
+    "requested_at": "2026-06-28T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2708",
+    "period": "P27",
+    "requested_at": "2026-06-28T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2709",
+    "period": "P27",
+    "requested_at": "2026-06-28T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2800",
+    "period": "P28",
+    "requested_at": "2026-06-29T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2801",
+    "period": "P28",
+    "requested_at": "2026-06-29T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2802",
+    "period": "P28",
+    "requested_at": "2026-06-29T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2803",
+    "period": "P28",
+    "requested_at": "2026-06-29T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2804",
+    "period": "P28",
+    "requested_at": "2026-06-29T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2805",
+    "period": "P28",
+    "requested_at": "2026-06-29T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2806",
+    "period": "P28",
+    "requested_at": "2026-06-29T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2807",
+    "period": "P28",
+    "requested_at": "2026-06-29T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2808",
+    "period": "P28",
+    "requested_at": "2026-06-29T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2809",
+    "period": "P28",
+    "requested_at": "2026-06-29T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2810",
+    "period": "P28",
+    "requested_at": "2026-06-29T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2900",
+    "period": "P29",
+    "requested_at": "2026-06-30T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2901",
+    "period": "P29",
+    "requested_at": "2026-06-30T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2902",
+    "period": "P29",
+    "requested_at": "2026-06-30T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2903",
+    "period": "P29",
+    "requested_at": "2026-06-30T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2904",
+    "period": "P29",
+    "requested_at": "2026-06-30T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2905",
+    "period": "P29",
+    "requested_at": "2026-06-30T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2906",
+    "period": "P29",
+    "requested_at": "2026-06-30T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2907",
+    "period": "P29",
+    "requested_at": "2026-06-30T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2908",
+    "period": "P29",
+    "requested_at": "2026-06-30T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J2909",
+    "period": "P29",
+    "requested_at": "2026-06-30T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2910",
+    "period": "P29",
+    "requested_at": "2026-06-30T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J2911",
+    "period": "P29",
+    "requested_at": "2026-06-30T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3000",
+    "period": "P30",
+    "requested_at": "2026-07-01T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J3001",
+    "period": "P30",
+    "requested_at": "2026-07-01T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3002",
+    "period": "P30",
+    "requested_at": "2026-07-01T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3003",
+    "period": "P30",
+    "requested_at": "2026-07-01T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3004",
+    "period": "P30",
+    "requested_at": "2026-07-01T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J3005",
+    "period": "P30",
+    "requested_at": "2026-07-01T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3006",
+    "period": "P30",
+    "requested_at": "2026-07-01T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3007",
+    "period": "P30",
+    "requested_at": "2026-07-01T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3100",
+    "period": "P31",
+    "requested_at": "2026-07-02T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J3101",
+    "period": "P31",
+    "requested_at": "2026-07-02T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3102",
+    "period": "P31",
+    "requested_at": "2026-07-02T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3103",
+    "period": "P31",
+    "requested_at": "2026-07-02T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3104",
+    "period": "P31",
+    "requested_at": "2026-07-02T07:00:00+08:00",
+    "length_hours": 4,
+    "party": 1,
+    "needs": "自携童车"
+  },
+  {
+    "journey": "J3105",
+    "period": "P31",
+    "requested_at": "2026-07-02T08:00:00+08:00",
+    "length_hours": 8,
+    "party": 2,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3106",
+    "period": "P31",
+    "requested_at": "2026-07-02T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 3,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3107",
+    "period": "P31",
+    "requested_at": "2026-07-02T08:00:00+08:00",
+    "length_hours": 4,
+    "party": 4,
+    "needs": "通用"
+  },
+  {
+    "journey": "J3108",
+    "period": "P31",
+    "requested_at": "2026-07-02T07:00:00+08:00",
+    "length_hours": 8,
+    "party": 1,
+    "needs": "自携童车"
+  }
+]

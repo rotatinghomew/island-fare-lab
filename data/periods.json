@@ -1,0 +1,322 @@
+[
+  {
+    "period": "P00",
+    "day": "2026-06-01",
+    "area": "海湾",
+    "window": "上午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-02"
+  },
+  {
+    "period": "P01",
+    "day": "2026-06-02",
+    "area": "海湾",
+    "window": "下午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-03"
+  },
+  {
+    "period": "P02",
+    "day": "2026-06-03",
+    "area": "港城",
+    "window": "下午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-06-04"
+  },
+  {
+    "period": "P03",
+    "day": "2026-06-04",
+    "area": "港城",
+    "window": "上午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-05"
+  },
+  {
+    "period": "P04",
+    "day": "2026-06-05",
+    "area": "海湾",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-06"
+  },
+  {
+    "period": "P05",
+    "day": "2026-06-06",
+    "area": "海湾",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-06-07"
+  },
+  {
+    "period": "P06",
+    "day": "2026-06-07",
+    "area": "港城",
+    "window": "下午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-08"
+  },
+  {
+    "period": "P07",
+    "day": "2026-06-08",
+    "area": "港城",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-09"
+  },
+  {
+    "period": "P08",
+    "day": "2026-06-09",
+    "area": "海湾",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-06-10"
+  },
+  {
+    "period": "P09",
+    "day": "2026-06-10",
+    "area": "海湾",
+    "window": "下午",
+    "arm": "临时控量",
+    "random": false,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-11"
+  },
+  {
+    "period": "P10",
+    "day": "2026-06-11",
+    "area": "港城",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-12"
+  },
+  {
+    "period": "P11",
+    "day": "2026-06-12",
+    "area": "港城",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-06-13"
+  },
+  {
+    "period": "P12",
+    "day": "2026-06-13",
+    "area": "海湾",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-14"
+  },
+  {
+    "period": "P13",
+    "day": "2026-06-14",
+    "area": "海湾",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-15"
+  },
+  {
+    "period": "P14",
+    "day": "2026-06-15",
+    "area": "港城",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-06-16"
+  },
+  {
+    "period": "P15",
+    "day": "2026-06-16",
+    "area": "港城",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-17"
+  },
+  {
+    "period": "P16",
+    "day": "2026-06-17",
+    "area": "海湾",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-18"
+  },
+  {
+    "period": "P17",
+    "day": "2026-06-18",
+    "area": "海湾",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-06-19"
+  },
+  {
+    "period": "P18",
+    "day": "2026-06-19",
+    "area": "港城",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-20"
+  },
+  {
+    "period": "P19",
+    "day": "2026-06-20",
+    "area": "港城",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-21"
+  },
+  {
+    "period": "P20",
+    "day": "2026-06-21",
+    "area": "海湾",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-06-22"
+  },
+  {
+    "period": "P21",
+    "day": "2026-06-22",
+    "area": "海湾",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-23"
+  },
+  {
+    "period": "P22",
+    "day": "2026-06-23",
+    "area": "港城",
+    "window": "下午",
+    "arm": "临时控量",
+    "random": false,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-24"
+  },
+  {
+    "period": "P23",
+    "day": "2026-06-24",
+    "area": "港城",
+    "window": "上午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-06-25"
+  },
+  {
+    "period": "P24",
+    "day": "2026-06-25",
+    "area": "海湾",
+    "window": "上午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-26"
+  },
+  {
+    "period": "P25",
+    "day": "2026-06-26",
+    "area": "海湾",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-27"
+  },
+  {
+    "period": "P26",
+    "day": "2026-06-27",
+    "area": "港城",
+    "window": "下午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-06-28"
+  },
+  {
+    "period": "P27",
+    "day": "2026-06-28",
+    "area": "港城",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-06-29"
+  },
+  {
+    "period": "P28",
+    "day": "2026-06-29",
+    "area": "海湾",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-06-30"
+  },
+  {
+    "period": "P29",
+    "day": "2026-06-30",
+    "area": "海湾",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 10,
+    "closed_at": "2026-07-01"
+  },
+  {
+    "period": "P30",
+    "day": "2026-07-01",
+    "area": "港城",
+    "window": "下午",
+    "arm": "基准",
+    "random": true,
+    "fleet_hours": 8,
+    "closed_at": "2026-07-02"
+  },
+  {
+    "period": "P31",
+    "day": "2026-07-02",
+    "area": "港城",
+    "window": "上午",
+    "arm": "阶梯甲",
+    "random": true,
+    "fleet_hours": 9,
+    "closed_at": "2026-07-03"
+  }
+]

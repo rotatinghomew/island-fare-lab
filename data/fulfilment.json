@@ -1,0 +1,2194 @@
+[
+  {
+    "journey": "J0000",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-01T11:00:00+08:00",
+    "received_day": "2026-06-02"
+  },
+  {
+    "journey": "J0001",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-01T11:00:00+08:00",
+    "received_day": "2026-06-02"
+  },
+  {
+    "journey": "J0002",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-01T11:00:00+08:00",
+    "received_day": "2026-06-07"
+  },
+  {
+    "journey": "J0003",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-01T11:00:00+08:00",
+    "received_day": "2026-06-02"
+  },
+  {
+    "journey": "J0004",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-01T11:00:00+08:00",
+    "received_day": "2026-06-02"
+  },
+  {
+    "journey": "J0005",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-01T11:00:00+08:00",
+    "received_day": "2026-06-02"
+  },
+  {
+    "journey": "J0006",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-01T11:00:00+08:00",
+    "received_day": "2026-06-02"
+  },
+  {
+    "journey": "J0007",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-01T11:00:00+08:00",
+    "received_day": "2026-06-02"
+  },
+  {
+    "journey": "J0100",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-02T11:00:00+08:00",
+    "received_day": "2026-06-03"
+  },
+  {
+    "journey": "J0101",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-02T11:00:00+08:00",
+    "received_day": "2026-06-03"
+  },
+  {
+    "journey": "J0102",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-02T11:00:00+08:00",
+    "received_day": "2026-06-08"
+  },
+  {
+    "journey": "J0103",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-02T11:00:00+08:00",
+    "received_day": "2026-06-03"
+  },
+  {
+    "journey": "J0104",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-02T11:00:00+08:00",
+    "received_day": "2026-06-03"
+  },
+  {
+    "journey": "J0105",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-02T11:00:00+08:00",
+    "received_day": "2026-06-03"
+  },
+  {
+    "journey": "J0106",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-02T11:00:00+08:00",
+    "received_day": "2026-06-03"
+  },
+  {
+    "journey": "J0107",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-02T11:00:00+08:00",
+    "received_day": "2026-06-03"
+  },
+  {
+    "journey": "J0108",
+    "plan": "day",
+    "paid": 720,
+    "use": "未到场",
+    "paid_at": "2026-06-02T11:00:00+08:00",
+    "received_day": "2026-06-03"
+  },
+  {
+    "journey": "J0200",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-03T11:00:00+08:00",
+    "received_day": "2026-06-04"
+  },
+  {
+    "journey": "J0201",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-03T11:00:00+08:00",
+    "received_day": "2026-06-04"
+  },
+  {
+    "journey": "J0202",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-03T11:00:00+08:00",
+    "received_day": "2026-06-09"
+  },
+  {
+    "journey": "J0203",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-03T11:00:00+08:00",
+    "received_day": "2026-06-04"
+  },
+  {
+    "journey": "J0204",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-03T11:00:00+08:00",
+    "received_day": "2026-06-04"
+  },
+  {
+    "journey": "J0205",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-03T11:00:00+08:00",
+    "received_day": "2026-06-04"
+  },
+  {
+    "journey": "J0206",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-03T11:00:00+08:00",
+    "received_day": "2026-06-04"
+  },
+  {
+    "journey": "J0208",
+    "plan": "day",
+    "paid": 720,
+    "use": "未到场",
+    "paid_at": "2026-06-03T11:00:00+08:00",
+    "received_day": "2026-06-04"
+  },
+  {
+    "journey": "J0209",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-06-03T11:00:00+08:00",
+    "received_day": "2026-06-04"
+  },
+  {
+    "journey": "J0300",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-05"
+  },
+  {
+    "journey": "J0301",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-05"
+  },
+  {
+    "journey": "J0302",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-10"
+  },
+  {
+    "journey": "J0303",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-05"
+  },
+  {
+    "journey": "J0304",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-05"
+  },
+  {
+    "journey": "J0305",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-05"
+  },
+  {
+    "journey": "J0306",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-05"
+  },
+  {
+    "journey": "J0308",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-05"
+  },
+  {
+    "journey": "J0309",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-05"
+  },
+  {
+    "journey": "J0310",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-04T11:00:00+08:00",
+    "received_day": "2026-06-05"
+  },
+  {
+    "journey": "J0400",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-05T11:00:00+08:00",
+    "received_day": "2026-06-06"
+  },
+  {
+    "journey": "J0401",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-05T11:00:00+08:00",
+    "received_day": "2026-06-06"
+  },
+  {
+    "journey": "J0403",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-06-05T11:00:00+08:00",
+    "received_day": "2026-06-06"
+  },
+  {
+    "journey": "J0404",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-05T11:00:00+08:00",
+    "received_day": "2026-06-06"
+  },
+  {
+    "journey": "J0406",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-05T11:00:00+08:00",
+    "received_day": "2026-06-06"
+  },
+  {
+    "journey": "J0407",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-05T11:00:00+08:00",
+    "received_day": "2026-06-06"
+  },
+  {
+    "journey": "J0408",
+    "plan": "day",
+    "paid": 720,
+    "use": "未到场",
+    "paid_at": "2026-06-05T11:00:00+08:00",
+    "received_day": "2026-06-06"
+  },
+  {
+    "journey": "J0409",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-06-05T11:00:00+08:00",
+    "received_day": "2026-06-06"
+  },
+  {
+    "journey": "J0411",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-05T11:00:00+08:00",
+    "received_day": "2026-06-06"
+  },
+  {
+    "journey": "J0500",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-06T11:00:00+08:00",
+    "received_day": "2026-06-07"
+  },
+  {
+    "journey": "J0501",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-06T11:00:00+08:00",
+    "received_day": "2026-06-07"
+  },
+  {
+    "journey": "J0502",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-06T11:00:00+08:00",
+    "received_day": "2026-06-12"
+  },
+  {
+    "journey": "J0503",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-06T11:00:00+08:00",
+    "received_day": "2026-06-07"
+  },
+  {
+    "journey": "J0504",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-06T11:00:00+08:00",
+    "received_day": "2026-06-07"
+  },
+  {
+    "journey": "J0505",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-06T11:00:00+08:00",
+    "received_day": "2026-06-07"
+  },
+  {
+    "journey": "J0506",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-06T11:00:00+08:00",
+    "received_day": "2026-06-07"
+  },
+  {
+    "journey": "J0507",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-06T11:00:00+08:00",
+    "received_day": "2026-06-07"
+  },
+  {
+    "journey": "J0600",
+    "plan": "express",
+    "paid": 400,
+    "use": "未到场",
+    "paid_at": "2026-06-07T11:00:00+08:00",
+    "received_day": "2026-06-08"
+  },
+  {
+    "journey": "J0601",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-07T11:00:00+08:00",
+    "received_day": "2026-06-08"
+  },
+  {
+    "journey": "J0602",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-07T11:00:00+08:00",
+    "received_day": "2026-06-13"
+  },
+  {
+    "journey": "J0603",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-07T11:00:00+08:00",
+    "received_day": "2026-06-08"
+  },
+  {
+    "journey": "J0604",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-06-07T11:00:00+08:00",
+    "received_day": "2026-06-08"
+  },
+  {
+    "journey": "J0605",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-07T11:00:00+08:00",
+    "received_day": "2026-06-08"
+  },
+  {
+    "journey": "J0606",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-07T11:00:00+08:00",
+    "received_day": "2026-06-08"
+  },
+  {
+    "journey": "J0607",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-07T11:00:00+08:00",
+    "received_day": "2026-06-08"
+  },
+  {
+    "journey": "J0608",
+    "plan": "day",
+    "paid": 720,
+    "use": "未到场",
+    "paid_at": "2026-06-07T11:00:00+08:00",
+    "received_day": "2026-06-08"
+  },
+  {
+    "journey": "J0700",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-08T11:00:00+08:00",
+    "received_day": "2026-06-09"
+  },
+  {
+    "journey": "J0701",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-08T11:00:00+08:00",
+    "received_day": "2026-06-09"
+  },
+  {
+    "journey": "J0702",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-08T11:00:00+08:00",
+    "received_day": "2026-06-14"
+  },
+  {
+    "journey": "J0703",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-08T11:00:00+08:00",
+    "received_day": "2026-06-09"
+  },
+  {
+    "journey": "J0704",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-08T11:00:00+08:00",
+    "received_day": "2026-06-09"
+  },
+  {
+    "journey": "J0705",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-08T11:00:00+08:00",
+    "received_day": "2026-06-09"
+  },
+  {
+    "journey": "J0706",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-08T11:00:00+08:00",
+    "received_day": "2026-06-09"
+  },
+  {
+    "journey": "J0708",
+    "plan": "day",
+    "paid": 720,
+    "use": "未到场",
+    "paid_at": "2026-06-08T11:00:00+08:00",
+    "received_day": "2026-06-09"
+  },
+  {
+    "journey": "J0709",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-08T11:00:00+08:00",
+    "received_day": "2026-06-09"
+  },
+  {
+    "journey": "J0800",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-09T11:00:00+08:00",
+    "received_day": "2026-06-10"
+  },
+  {
+    "journey": "J0801",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-09T11:00:00+08:00",
+    "received_day": "2026-06-10"
+  },
+  {
+    "journey": "J0802",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-09T11:00:00+08:00",
+    "received_day": "2026-06-15"
+  },
+  {
+    "journey": "J0803",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-09T11:00:00+08:00",
+    "received_day": "2026-06-10"
+  },
+  {
+    "journey": "J0805",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-09T11:00:00+08:00",
+    "received_day": "2026-06-10"
+  },
+  {
+    "journey": "J0806",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-09T11:00:00+08:00",
+    "received_day": "2026-06-10"
+  },
+  {
+    "journey": "J0807",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-09T11:00:00+08:00",
+    "received_day": "2026-06-10"
+  },
+  {
+    "journey": "J0808",
+    "plan": "semi",
+    "paid": 540,
+    "use": "未到场",
+    "paid_at": "2026-06-09T11:00:00+08:00",
+    "received_day": "2026-06-10"
+  },
+  {
+    "journey": "J0809",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-09T11:00:00+08:00",
+    "received_day": "2026-06-10"
+  },
+  {
+    "journey": "J0900",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-10T11:00:00+08:00",
+    "received_day": "2026-06-11"
+  },
+  {
+    "journey": "J0901",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-10T11:00:00+08:00",
+    "received_day": "2026-06-11"
+  },
+  {
+    "journey": "J0902",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-10T11:00:00+08:00",
+    "received_day": "2026-06-16"
+  },
+  {
+    "journey": "J0903",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-10T11:00:00+08:00",
+    "received_day": "2026-06-11"
+  },
+  {
+    "journey": "J0905",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-10T11:00:00+08:00",
+    "received_day": "2026-06-11"
+  },
+  {
+    "journey": "J0906",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-10T11:00:00+08:00",
+    "received_day": "2026-06-11"
+  },
+  {
+    "journey": "J0909",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-10T11:00:00+08:00",
+    "received_day": "2026-06-11"
+  },
+  {
+    "journey": "J0910",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-10T11:00:00+08:00",
+    "received_day": "2026-06-11"
+  },
+  {
+    "journey": "J1000",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-11T11:00:00+08:00",
+    "received_day": "2026-06-12"
+  },
+  {
+    "journey": "J1001",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-11T11:00:00+08:00",
+    "received_day": "2026-06-12"
+  },
+  {
+    "journey": "J1002",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-11T11:00:00+08:00",
+    "received_day": "2026-06-17"
+  },
+  {
+    "journey": "J1003",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-11T11:00:00+08:00",
+    "received_day": "2026-06-12"
+  },
+  {
+    "journey": "J1004",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-11T11:00:00+08:00",
+    "received_day": "2026-06-12"
+  },
+  {
+    "journey": "J1005",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-11T11:00:00+08:00",
+    "received_day": "2026-06-12"
+  },
+  {
+    "journey": "J1006",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-11T11:00:00+08:00",
+    "received_day": "2026-06-12"
+  },
+  {
+    "journey": "J1007",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-11T11:00:00+08:00",
+    "received_day": "2026-06-12"
+  },
+  {
+    "journey": "J1100",
+    "plan": "express",
+    "paid": 400,
+    "use": "未到场",
+    "paid_at": "2026-06-12T11:00:00+08:00",
+    "received_day": "2026-06-13"
+  },
+  {
+    "journey": "J1101",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-12T11:00:00+08:00",
+    "received_day": "2026-06-13"
+  },
+  {
+    "journey": "J1102",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-12T11:00:00+08:00",
+    "received_day": "2026-06-18"
+  },
+  {
+    "journey": "J1103",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-12T11:00:00+08:00",
+    "received_day": "2026-06-13"
+  },
+  {
+    "journey": "J1104",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-06-12T11:00:00+08:00",
+    "received_day": "2026-06-13"
+  },
+  {
+    "journey": "J1106",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-12T11:00:00+08:00",
+    "received_day": "2026-06-13"
+  },
+  {
+    "journey": "J1107",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-12T11:00:00+08:00",
+    "received_day": "2026-06-13"
+  },
+  {
+    "journey": "J1108",
+    "plan": "express",
+    "paid": 420,
+    "use": "未到场",
+    "paid_at": "2026-06-12T11:00:00+08:00",
+    "received_day": "2026-06-13"
+  },
+  {
+    "journey": "J1200",
+    "plan": "express",
+    "paid": 400,
+    "use": "未到场",
+    "paid_at": "2026-06-13T11:00:00+08:00",
+    "received_day": "2026-06-14"
+  },
+  {
+    "journey": "J1202",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-06-13T11:00:00+08:00",
+    "received_day": "2026-06-19"
+  },
+  {
+    "journey": "J1203",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-13T11:00:00+08:00",
+    "received_day": "2026-06-14"
+  },
+  {
+    "journey": "J1205",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-13T11:00:00+08:00",
+    "received_day": "2026-06-14"
+  },
+  {
+    "journey": "J1206",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-13T11:00:00+08:00",
+    "received_day": "2026-06-14"
+  },
+  {
+    "journey": "J1207",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-13T11:00:00+08:00",
+    "received_day": "2026-06-14"
+  },
+  {
+    "journey": "J1208",
+    "plan": "day",
+    "paid": 720,
+    "use": "未到场",
+    "paid_at": "2026-06-13T11:00:00+08:00",
+    "received_day": "2026-06-14"
+  },
+  {
+    "journey": "J1209",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-13T11:00:00+08:00",
+    "received_day": "2026-06-14"
+  },
+  {
+    "journey": "J1300",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-14T11:00:00+08:00",
+    "received_day": "2026-06-15"
+  },
+  {
+    "journey": "J1301",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-14T11:00:00+08:00",
+    "received_day": "2026-06-15"
+  },
+  {
+    "journey": "J1302",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-14T11:00:00+08:00",
+    "received_day": "2026-06-20"
+  },
+  {
+    "journey": "J1303",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-14T11:00:00+08:00",
+    "received_day": "2026-06-15"
+  },
+  {
+    "journey": "J1306",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-14T11:00:00+08:00",
+    "received_day": "2026-06-15"
+  },
+  {
+    "journey": "J1307",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-14T11:00:00+08:00",
+    "received_day": "2026-06-15"
+  },
+  {
+    "journey": "J1308",
+    "plan": "day",
+    "paid": 780,
+    "use": "未到场",
+    "paid_at": "2026-06-14T11:00:00+08:00",
+    "received_day": "2026-06-15"
+  },
+  {
+    "journey": "J1309",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-14T11:00:00+08:00",
+    "received_day": "2026-06-15"
+  },
+  {
+    "journey": "J1400",
+    "plan": "express",
+    "paid": 400,
+    "use": "未到场",
+    "paid_at": "2026-06-15T11:00:00+08:00",
+    "received_day": "2026-06-16"
+  },
+  {
+    "journey": "J1402",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-15T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J1403",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-15T11:00:00+08:00",
+    "received_day": "2026-06-16"
+  },
+  {
+    "journey": "J1404",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-15T11:00:00+08:00",
+    "received_day": "2026-06-16"
+  },
+  {
+    "journey": "J1406",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-15T11:00:00+08:00",
+    "received_day": "2026-06-16"
+  },
+  {
+    "journey": "J1408",
+    "plan": "day",
+    "paid": 780,
+    "use": "未到场",
+    "paid_at": "2026-06-15T11:00:00+08:00",
+    "received_day": "2026-06-16"
+  },
+  {
+    "journey": "J1409",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-15T11:00:00+08:00",
+    "received_day": "2026-06-16"
+  },
+  {
+    "journey": "J1411",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-15T11:00:00+08:00",
+    "received_day": "2026-06-16"
+  },
+  {
+    "journey": "J1500",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-16T11:00:00+08:00",
+    "received_day": "2026-06-17"
+  },
+  {
+    "journey": "J1502",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-16T11:00:00+08:00",
+    "received_day": "2026-06-22"
+  },
+  {
+    "journey": "J1503",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-16T11:00:00+08:00",
+    "received_day": "2026-06-17"
+  },
+  {
+    "journey": "J1504",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-16T11:00:00+08:00",
+    "received_day": "2026-06-17"
+  },
+  {
+    "journey": "J1505",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-16T11:00:00+08:00",
+    "received_day": "2026-06-17"
+  },
+  {
+    "journey": "J1506",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-16T11:00:00+08:00",
+    "received_day": "2026-06-17"
+  },
+  {
+    "journey": "J1507",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-16T11:00:00+08:00",
+    "received_day": "2026-06-17"
+  },
+  {
+    "journey": "J1600",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-17T11:00:00+08:00",
+    "received_day": "2026-06-18"
+  },
+  {
+    "journey": "J1601",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-17T11:00:00+08:00",
+    "received_day": "2026-06-18"
+  },
+  {
+    "journey": "J1602",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-17T11:00:00+08:00",
+    "received_day": "2026-06-23"
+  },
+  {
+    "journey": "J1603",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-17T11:00:00+08:00",
+    "received_day": "2026-06-18"
+  },
+  {
+    "journey": "J1604",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-17T11:00:00+08:00",
+    "received_day": "2026-06-18"
+  },
+  {
+    "journey": "J1606",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-17T11:00:00+08:00",
+    "received_day": "2026-06-18"
+  },
+  {
+    "journey": "J1607",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-17T11:00:00+08:00",
+    "received_day": "2026-06-18"
+  },
+  {
+    "journey": "J1608",
+    "plan": "day",
+    "paid": 720,
+    "use": "未到场",
+    "paid_at": "2026-06-17T11:00:00+08:00",
+    "received_day": "2026-06-18"
+  },
+  {
+    "journey": "J1700",
+    "plan": "express",
+    "paid": 400,
+    "use": "未到场",
+    "paid_at": "2026-06-18T11:00:00+08:00",
+    "received_day": "2026-06-19"
+  },
+  {
+    "journey": "J1701",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-18T11:00:00+08:00",
+    "received_day": "2026-06-19"
+  },
+  {
+    "journey": "J1702",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-18T11:00:00+08:00",
+    "received_day": "2026-06-24"
+  },
+  {
+    "journey": "J1703",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-18T11:00:00+08:00",
+    "received_day": "2026-06-19"
+  },
+  {
+    "journey": "J1704",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-18T11:00:00+08:00",
+    "received_day": "2026-06-19"
+  },
+  {
+    "journey": "J1706",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-18T11:00:00+08:00",
+    "received_day": "2026-06-19"
+  },
+  {
+    "journey": "J1707",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-18T11:00:00+08:00",
+    "received_day": "2026-06-19"
+  },
+  {
+    "journey": "J1708",
+    "plan": "day",
+    "paid": 780,
+    "use": "未到场",
+    "paid_at": "2026-06-18T11:00:00+08:00",
+    "received_day": "2026-06-19"
+  },
+  {
+    "journey": "J1709",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-18T11:00:00+08:00",
+    "received_day": "2026-06-19"
+  },
+  {
+    "journey": "J1800",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-19T11:00:00+08:00",
+    "received_day": "2026-06-20"
+  },
+  {
+    "journey": "J1801",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-19T11:00:00+08:00",
+    "received_day": "2026-06-20"
+  },
+  {
+    "journey": "J1802",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-19T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J1803",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-19T11:00:00+08:00",
+    "received_day": "2026-06-20"
+  },
+  {
+    "journey": "J1804",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-19T11:00:00+08:00",
+    "received_day": "2026-06-20"
+  },
+  {
+    "journey": "J1806",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-19T11:00:00+08:00",
+    "received_day": "2026-06-20"
+  },
+  {
+    "journey": "J1807",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-19T11:00:00+08:00",
+    "received_day": "2026-06-20"
+  },
+  {
+    "journey": "J1809",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-19T11:00:00+08:00",
+    "received_day": "2026-06-20"
+  },
+  {
+    "journey": "J1900",
+    "plan": "express",
+    "paid": 400,
+    "use": "未到场",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J1901",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J1902",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J1903",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J1904",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J1905",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J1906",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J1907",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J1909",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J1911",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-20T11:00:00+08:00",
+    "received_day": "2026-06-21"
+  },
+  {
+    "journey": "J2000",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-21T11:00:00+08:00",
+    "received_day": "2026-06-22"
+  },
+  {
+    "journey": "J2001",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-21T11:00:00+08:00",
+    "received_day": "2026-06-22"
+  },
+  {
+    "journey": "J2002",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-21T11:00:00+08:00",
+    "received_day": "2026-06-27"
+  },
+  {
+    "journey": "J2003",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-21T11:00:00+08:00",
+    "received_day": "2026-06-22"
+  },
+  {
+    "journey": "J2004",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-06-21T11:00:00+08:00",
+    "received_day": "2026-06-22"
+  },
+  {
+    "journey": "J2006",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-21T11:00:00+08:00",
+    "received_day": "2026-06-22"
+  },
+  {
+    "journey": "J2007",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-21T11:00:00+08:00",
+    "received_day": "2026-06-22"
+  },
+  {
+    "journey": "J2100",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-22T11:00:00+08:00",
+    "received_day": "2026-06-23"
+  },
+  {
+    "journey": "J2101",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-22T11:00:00+08:00",
+    "received_day": "2026-06-23"
+  },
+  {
+    "journey": "J2102",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-22T11:00:00+08:00",
+    "received_day": "2026-06-28"
+  },
+  {
+    "journey": "J2103",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-22T11:00:00+08:00",
+    "received_day": "2026-06-23"
+  },
+  {
+    "journey": "J2104",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-22T11:00:00+08:00",
+    "received_day": "2026-06-23"
+  },
+  {
+    "journey": "J2106",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-22T11:00:00+08:00",
+    "received_day": "2026-06-23"
+  },
+  {
+    "journey": "J2107",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-22T11:00:00+08:00",
+    "received_day": "2026-06-23"
+  },
+  {
+    "journey": "J2108",
+    "plan": "day",
+    "paid": 780,
+    "use": "未到场",
+    "paid_at": "2026-06-22T11:00:00+08:00",
+    "received_day": "2026-06-23"
+  },
+  {
+    "journey": "J2200",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-23T11:00:00+08:00",
+    "received_day": "2026-06-24"
+  },
+  {
+    "journey": "J2201",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-23T11:00:00+08:00",
+    "received_day": "2026-06-24"
+  },
+  {
+    "journey": "J2202",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-23T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2203",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-23T11:00:00+08:00",
+    "received_day": "2026-06-24"
+  },
+  {
+    "journey": "J2204",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-06-23T11:00:00+08:00",
+    "received_day": "2026-06-24"
+  },
+  {
+    "journey": "J2206",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-23T11:00:00+08:00",
+    "received_day": "2026-06-24"
+  },
+  {
+    "journey": "J2207",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-23T11:00:00+08:00",
+    "received_day": "2026-06-24"
+  },
+  {
+    "journey": "J2208",
+    "plan": "day",
+    "paid": 720,
+    "use": "未到场",
+    "paid_at": "2026-06-23T11:00:00+08:00",
+    "received_day": "2026-06-24"
+  },
+  {
+    "journey": "J2209",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-23T11:00:00+08:00",
+    "received_day": "2026-06-24"
+  },
+  {
+    "journey": "J2300",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J2301",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J2302",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2303",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J2304",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J2305",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J2306",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J2307",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J2308",
+    "plan": "day",
+    "paid": 780,
+    "use": "未到场",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J2309",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-24T11:00:00+08:00",
+    "received_day": "2026-06-25"
+  },
+  {
+    "journey": "J2400",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J2401",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J2402",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J2403",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J2404",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J2406",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J2407",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J2409",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J2410",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J2411",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-25T11:00:00+08:00",
+    "received_day": "2026-06-26"
+  },
+  {
+    "journey": "J2500",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-26T11:00:00+08:00",
+    "received_day": "2026-06-27"
+  },
+  {
+    "journey": "J2501",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-26T11:00:00+08:00",
+    "received_day": "2026-06-27"
+  },
+  {
+    "journey": "J2502",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-26T11:00:00+08:00",
+    "received_day": "2026-07-02"
+  },
+  {
+    "journey": "J2503",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-26T11:00:00+08:00",
+    "received_day": "2026-06-27"
+  },
+  {
+    "journey": "J2504",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-26T11:00:00+08:00",
+    "received_day": "2026-06-27"
+  },
+  {
+    "journey": "J2505",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-26T11:00:00+08:00",
+    "received_day": "2026-06-27"
+  },
+  {
+    "journey": "J2506",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-26T11:00:00+08:00",
+    "received_day": "2026-06-27"
+  },
+  {
+    "journey": "J2507",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-26T11:00:00+08:00",
+    "received_day": "2026-06-27"
+  },
+  {
+    "journey": "J2600",
+    "plan": "express",
+    "paid": 400,
+    "use": "未到场",
+    "paid_at": "2026-06-27T11:00:00+08:00",
+    "received_day": "2026-06-28"
+  },
+  {
+    "journey": "J2601",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-27T11:00:00+08:00",
+    "received_day": "2026-06-28"
+  },
+  {
+    "journey": "J2602",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-27T11:00:00+08:00",
+    "received_day": "2026-07-03"
+  },
+  {
+    "journey": "J2603",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-27T11:00:00+08:00",
+    "received_day": "2026-06-28"
+  },
+  {
+    "journey": "J2605",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-27T11:00:00+08:00",
+    "received_day": "2026-06-28"
+  },
+  {
+    "journey": "J2606",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-27T11:00:00+08:00",
+    "received_day": "2026-06-28"
+  },
+  {
+    "journey": "J2608",
+    "plan": "express",
+    "paid": 420,
+    "use": "未到场",
+    "paid_at": "2026-06-27T11:00:00+08:00",
+    "received_day": "2026-06-28"
+  },
+  {
+    "journey": "J2700",
+    "plan": "express",
+    "paid": 400,
+    "use": "未到场",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2701",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2702",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-07-04"
+  },
+  {
+    "journey": "J2703",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2704",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2705",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2706",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2707",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2708",
+    "plan": "express",
+    "paid": 420,
+    "use": "未到场",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2709",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-28T11:00:00+08:00",
+    "received_day": "2026-06-29"
+  },
+  {
+    "journey": "J2800",
+    "plan": "express",
+    "paid": 400,
+    "use": "未到场",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2801",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2802",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-07-05"
+  },
+  {
+    "journey": "J2803",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2805",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2806",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2807",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2808",
+    "plan": "day",
+    "paid": 720,
+    "use": "未到场",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2809",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2810",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-29T11:00:00+08:00",
+    "received_day": "2026-06-30"
+  },
+  {
+    "journey": "J2900",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J2901",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J2902",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-06"
+  },
+  {
+    "journey": "J2903",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J2904",
+    "plan": "day",
+    "paid": 780,
+    "use": "已使用",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J2905",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J2906",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J2907",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J2908",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J2909",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-06-30T11:00:00+08:00",
+    "received_day": "2026-07-01"
+  },
+  {
+    "journey": "J3000",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-07-01T11:00:00+08:00",
+    "received_day": "2026-07-02"
+  },
+  {
+    "journey": "J3001",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-07-01T11:00:00+08:00",
+    "received_day": "2026-07-02"
+  },
+  {
+    "journey": "J3003",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-07-01T11:00:00+08:00",
+    "received_day": "2026-07-02"
+  },
+  {
+    "journey": "J3004",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-07-01T11:00:00+08:00",
+    "received_day": "2026-07-02"
+  },
+  {
+    "journey": "J3005",
+    "plan": "semi",
+    "paid": 480,
+    "use": "已使用",
+    "paid_at": "2026-07-01T11:00:00+08:00",
+    "received_day": "2026-07-02"
+  },
+  {
+    "journey": "J3006",
+    "plan": "semi",
+    "paid": 470,
+    "use": "已使用",
+    "paid_at": "2026-07-01T11:00:00+08:00",
+    "received_day": "2026-07-02"
+  },
+  {
+    "journey": "J3007",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-07-01T11:00:00+08:00",
+    "received_day": "2026-07-02"
+  },
+  {
+    "journey": "J3100",
+    "plan": "semi",
+    "paid": 480,
+    "use": "未到场",
+    "paid_at": "2026-07-02T11:00:00+08:00",
+    "received_day": "2026-07-03"
+  },
+  {
+    "journey": "J3101",
+    "plan": "day",
+    "paid": 755,
+    "use": "已使用",
+    "paid_at": "2026-07-02T11:00:00+08:00",
+    "received_day": "2026-07-03"
+  },
+  {
+    "journey": "J3102",
+    "plan": "day",
+    "paid": 720,
+    "use": "已使用",
+    "paid_at": "2026-07-02T11:00:00+08:00",
+    "received_day": "2026-07-08"
+  },
+  {
+    "journey": "J3103",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-07-02T11:00:00+08:00",
+    "received_day": "2026-07-03"
+  },
+  {
+    "journey": "J3104",
+    "plan": "express",
+    "paid": 420,
+    "use": "已使用",
+    "paid_at": "2026-07-02T11:00:00+08:00",
+    "received_day": "2026-07-03"
+  },
+  {
+    "journey": "J3106",
+    "plan": "express",
+    "paid": 400,
+    "use": "已使用",
+    "paid_at": "2026-07-02T11:00:00+08:00",
+    "received_day": "2026-07-03"
+  },
+  {
+    "journey": "J3107",
+    "plan": "semi",
+    "paid": 540,
+    "use": "已使用",
+    "paid_at": "2026-07-02T11:00:00+08:00",
+    "received_day": "2026-07-03"
+  },
+  {
+    "journey": "J3108",
+    "plan": "express",
+    "paid": 420,
+    "use": "未到场",
+    "paid_at": "2026-07-02T11:00:00+08:00",
+    "received_day": "2026-07-03"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "version": "base",
+    "area": "海湾和港城",
+    "plans": {
+      "semi": 480,
+      "day": 780,
+      "express": 400
+    },
+    "credit_ceiling": 210,
+    "support_level": 0.9
+  },
+  {
+    "version": "ladder-a",
+    "area": "海湾和港城",
+    "plans": {
+      "semi": 540,
+      "day": 720,
+      "express": 420
+    },
+    "credit_ceiling": 210,
+    "support_level": 0.9
+  },
+  {
+    "version": "ladder-b",
+    "area": "港城",
+    "plans": {
+      "semi": 580,
+      "day": 700,
+      "express": 380
+    },
+    "credit_ceiling": 140,
+    "support_level": 0.9
+  }
+]

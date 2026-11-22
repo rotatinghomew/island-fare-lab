@@ -1,0 +1,64 @@
+[
+  {
+    "quote": "R1",
+    "period": "P23",
+    "origin": "day",
+    "price": 650,
+    "alternatives": [
+      "day",
+      "semi"
+    ],
+    "until": "2026-06-25T18:00:00+08:00",
+    "state": "有效",
+    "change_at": "2026-06-20T08:00:00+08:00"
+  },
+  {
+    "quote": "R2",
+    "period": "P23",
+    "origin": "semi",
+    "price": 460,
+    "alternatives": [
+      "semi"
+    ],
+    "until": "2026-06-25T18:00:00+08:00",
+    "state": "有效",
+    "change_at": "2026-06-21T08:00:00+08:00"
+  },
+  {
+    "quote": "R2",
+    "period": "P23",
+    "origin": "semi",
+    "price": 460,
+    "alternatives": [
+      "semi"
+    ],
+    "until": "2026-06-25T18:00:00+08:00",
+    "state": "放弃",
+    "change_at": "2026-06-24T10:00:00+08:00"
+  },
+  {
+    "quote": "R3",
+    "period": "P25",
+    "origin": "day",
+    "price": 690,
+    "alternatives": [
+      "day"
+    ],
+    "until": "2026-06-26T18:00:00+08:00",
+    "state": "有效",
+    "change_at": "2026-06-22T08:00:00+08:00"
+  },
+  {
+    "quote": "R4",
+    "period": "P25",
+    "origin": "express",
+    "price": 345,
+    "alternatives": [
+      "express",
+      "semi"
+    ],
+    "until": "2026-06-26T18:00:00+08:00",
+    "state": "已行权",
+    "change_at": "2026-06-24T19:00:00+08:00"
+  }
+]

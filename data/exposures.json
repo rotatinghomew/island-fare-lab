@@ -1,0 +1,6289 @@
+[
+  {
+    "exposure": "E0000a",
+    "journey": "J0000",
+    "channel": "酒店",
+    "seen_at": "2026-06-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0001a",
+    "journey": "J0001",
+    "channel": "直订",
+    "seen_at": "2026-06-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0001b",
+    "journey": "J0001",
+    "channel": "酒店",
+    "seen_at": "2026-06-01T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0002a",
+    "journey": "J0002",
+    "channel": "直订",
+    "seen_at": "2026-06-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0003a",
+    "journey": "J0003",
+    "channel": "酒店",
+    "seen_at": "2026-06-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0004a",
+    "journey": "J0004",
+    "channel": "直订",
+    "seen_at": "2026-06-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0005a",
+    "journey": "J0005",
+    "channel": "直订",
+    "seen_at": "2026-06-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0006a",
+    "journey": "J0006",
+    "channel": "酒店",
+    "seen_at": "2026-06-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0006b",
+    "journey": "J0006",
+    "channel": "直订",
+    "seen_at": "2026-06-01T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0007a",
+    "journey": "J0007",
+    "channel": "直订",
+    "seen_at": "2026-06-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0100a",
+    "journey": "J0100",
+    "channel": "酒店",
+    "seen_at": "2026-06-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0101a",
+    "journey": "J0101",
+    "channel": "直订",
+    "seen_at": "2026-06-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0101b",
+    "journey": "J0101",
+    "channel": "酒店",
+    "seen_at": "2026-06-02T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0102a",
+    "journey": "J0102",
+    "channel": "直订",
+    "seen_at": "2026-06-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0103a",
+    "journey": "J0103",
+    "channel": "酒店",
+    "seen_at": "2026-06-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0104a",
+    "journey": "J0104",
+    "channel": "直订",
+    "seen_at": "2026-06-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0105a",
+    "journey": "J0105",
+    "channel": "直订",
+    "seen_at": "2026-06-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0106a",
+    "journey": "J0106",
+    "channel": "酒店",
+    "seen_at": "2026-06-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0106b",
+    "journey": "J0106",
+    "channel": "直订",
+    "seen_at": "2026-06-02T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0107a",
+    "journey": "J0107",
+    "channel": "直订",
+    "seen_at": "2026-06-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0108a",
+    "journey": "J0108",
+    "channel": "直订",
+    "seen_at": "2026-06-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0200a",
+    "journey": "J0200",
+    "channel": "酒店",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0201a",
+    "journey": "J0201",
+    "channel": "直订",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0201b",
+    "journey": "J0201",
+    "channel": "酒店",
+    "seen_at": "2026-06-03T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0202a",
+    "journey": "J0202",
+    "channel": "直订",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0203a",
+    "journey": "J0203",
+    "channel": "酒店",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0204a",
+    "journey": "J0204",
+    "channel": "直订",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0205a",
+    "journey": "J0205",
+    "channel": "直订",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0206a",
+    "journey": "J0206",
+    "channel": "酒店",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0206b",
+    "journey": "J0206",
+    "channel": "直订",
+    "seen_at": "2026-06-03T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0207a",
+    "journey": "J0207",
+    "channel": "直订",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0208a",
+    "journey": "J0208",
+    "channel": "直订",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0209a",
+    "journey": "J0209",
+    "channel": "酒店",
+    "seen_at": "2026-06-03T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0300a",
+    "journey": "J0300",
+    "channel": "酒店",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0301a",
+    "journey": "J0301",
+    "channel": "直订",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0301b",
+    "journey": "J0301",
+    "channel": "酒店",
+    "seen_at": "2026-06-04T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0302a",
+    "journey": "J0302",
+    "channel": "直订",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0303a",
+    "journey": "J0303",
+    "channel": "酒店",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0304a",
+    "journey": "J0304",
+    "channel": "直订",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0305a",
+    "journey": "J0305",
+    "channel": "直订",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0306a",
+    "journey": "J0306",
+    "channel": "酒店",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0306b",
+    "journey": "J0306",
+    "channel": "直订",
+    "seen_at": "2026-06-04T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0307a",
+    "journey": "J0307",
+    "channel": "直订",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0308a",
+    "journey": "J0308",
+    "channel": "直订",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0309a",
+    "journey": "J0309",
+    "channel": "酒店",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0310a",
+    "journey": "J0310",
+    "channel": "直订",
+    "seen_at": "2026-06-04T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0400a",
+    "journey": "J0400",
+    "channel": "酒店",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0401a",
+    "journey": "J0401",
+    "channel": "直订",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0401b",
+    "journey": "J0401",
+    "channel": "酒店",
+    "seen_at": "2026-06-05T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0402a",
+    "journey": "J0402",
+    "channel": "直订",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0403a",
+    "journey": "J0403",
+    "channel": "酒店",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0404a",
+    "journey": "J0404",
+    "channel": "直订",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0405a",
+    "journey": "J0405",
+    "channel": "直订",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0406a",
+    "journey": "J0406",
+    "channel": "酒店",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0406b",
+    "journey": "J0406",
+    "channel": "直订",
+    "seen_at": "2026-06-05T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0407a",
+    "journey": "J0407",
+    "channel": "直订",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0408a",
+    "journey": "J0408",
+    "channel": "直订",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0409a",
+    "journey": "J0409",
+    "channel": "酒店",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0410a",
+    "journey": "J0410",
+    "channel": "直订",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0411a",
+    "journey": "J0411",
+    "channel": "直订",
+    "seen_at": "2026-06-05T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0411b",
+    "journey": "J0411",
+    "channel": "酒店",
+    "seen_at": "2026-06-05T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0500a",
+    "journey": "J0500",
+    "channel": "酒店",
+    "seen_at": "2026-06-06T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0501a",
+    "journey": "J0501",
+    "channel": "直订",
+    "seen_at": "2026-06-06T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0501b",
+    "journey": "J0501",
+    "channel": "酒店",
+    "seen_at": "2026-06-06T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0502a",
+    "journey": "J0502",
+    "channel": "直订",
+    "seen_at": "2026-06-06T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0503a",
+    "journey": "J0503",
+    "channel": "酒店",
+    "seen_at": "2026-06-06T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0504a",
+    "journey": "J0504",
+    "channel": "直订",
+    "seen_at": "2026-06-06T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0505a",
+    "journey": "J0505",
+    "channel": "直订",
+    "seen_at": "2026-06-06T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0506a",
+    "journey": "J0506",
+    "channel": "酒店",
+    "seen_at": "2026-06-06T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0506b",
+    "journey": "J0506",
+    "channel": "直订",
+    "seen_at": "2026-06-06T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0507a",
+    "journey": "J0507",
+    "channel": "直订",
+    "seen_at": "2026-06-06T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0600a",
+    "journey": "J0600",
+    "channel": "酒店",
+    "seen_at": "2026-06-07T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0601a",
+    "journey": "J0601",
+    "channel": "直订",
+    "seen_at": "2026-06-07T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0601b",
+    "journey": "J0601",
+    "channel": "酒店",
+    "seen_at": "2026-06-07T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0602a",
+    "journey": "J0602",
+    "channel": "直订",
+    "seen_at": "2026-06-07T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0603a",
+    "journey": "J0603",
+    "channel": "酒店",
+    "seen_at": "2026-06-07T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0604a",
+    "journey": "J0604",
+    "channel": "直订",
+    "seen_at": "2026-06-07T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0605a",
+    "journey": "J0605",
+    "channel": "直订",
+    "seen_at": "2026-06-07T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0606a",
+    "journey": "J0606",
+    "channel": "酒店",
+    "seen_at": "2026-06-07T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0606b",
+    "journey": "J0606",
+    "channel": "直订",
+    "seen_at": "2026-06-07T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0607a",
+    "journey": "J0607",
+    "channel": "直订",
+    "seen_at": "2026-06-07T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0608a",
+    "journey": "J0608",
+    "channel": "直订",
+    "seen_at": "2026-06-07T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0700a",
+    "journey": "J0700",
+    "channel": "酒店",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0701a",
+    "journey": "J0701",
+    "channel": "直订",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0701b",
+    "journey": "J0701",
+    "channel": "酒店",
+    "seen_at": "2026-06-08T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0702a",
+    "journey": "J0702",
+    "channel": "直订",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0703a",
+    "journey": "J0703",
+    "channel": "酒店",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0704a",
+    "journey": "J0704",
+    "channel": "直订",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0705a",
+    "journey": "J0705",
+    "channel": "直订",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0706a",
+    "journey": "J0706",
+    "channel": "酒店",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0706b",
+    "journey": "J0706",
+    "channel": "直订",
+    "seen_at": "2026-06-08T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0707a",
+    "journey": "J0707",
+    "channel": "直订",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0708a",
+    "journey": "J0708",
+    "channel": "直订",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0709a",
+    "journey": "J0709",
+    "channel": "酒店",
+    "seen_at": "2026-06-08T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0800a",
+    "journey": "J0800",
+    "channel": "酒店",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0801a",
+    "journey": "J0801",
+    "channel": "直订",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0801b",
+    "journey": "J0801",
+    "channel": "酒店",
+    "seen_at": "2026-06-09T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0802a",
+    "journey": "J0802",
+    "channel": "直订",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0803a",
+    "journey": "J0803",
+    "channel": "酒店",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0804a",
+    "journey": "J0804",
+    "channel": "直订",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0805a",
+    "journey": "J0805",
+    "channel": "直订",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0806a",
+    "journey": "J0806",
+    "channel": "酒店",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0806b",
+    "journey": "J0806",
+    "channel": "直订",
+    "seen_at": "2026-06-09T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0807a",
+    "journey": "J0807",
+    "channel": "直订",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0808a",
+    "journey": "J0808",
+    "channel": "直订",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0809a",
+    "journey": "J0809",
+    "channel": "酒店",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0810a",
+    "journey": "J0810",
+    "channel": "直订",
+    "seen_at": "2026-06-09T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0900a",
+    "journey": "J0900",
+    "channel": "酒店",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0901a",
+    "journey": "J0901",
+    "channel": "直订",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0901b",
+    "journey": "J0901",
+    "channel": "酒店",
+    "seen_at": "2026-06-10T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0902a",
+    "journey": "J0902",
+    "channel": "直订",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0903a",
+    "journey": "J0903",
+    "channel": "酒店",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0904a",
+    "journey": "J0904",
+    "channel": "直订",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0905a",
+    "journey": "J0905",
+    "channel": "直订",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0906a",
+    "journey": "J0906",
+    "channel": "酒店",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0906b",
+    "journey": "J0906",
+    "channel": "直订",
+    "seen_at": "2026-06-10T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E0907a",
+    "journey": "J0907",
+    "channel": "直订",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0908a",
+    "journey": "J0908",
+    "channel": "直订",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0909a",
+    "journey": "J0909",
+    "channel": "酒店",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0910a",
+    "journey": "J0910",
+    "channel": "直订",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0911a",
+    "journey": "J0911",
+    "channel": "直订",
+    "seen_at": "2026-06-10T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E0911b",
+    "journey": "J0911",
+    "channel": "酒店",
+    "seen_at": "2026-06-10T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1000a",
+    "journey": "J1000",
+    "channel": "酒店",
+    "seen_at": "2026-06-11T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1001a",
+    "journey": "J1001",
+    "channel": "直订",
+    "seen_at": "2026-06-11T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1001b",
+    "journey": "J1001",
+    "channel": "酒店",
+    "seen_at": "2026-06-11T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1002a",
+    "journey": "J1002",
+    "channel": "直订",
+    "seen_at": "2026-06-11T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1003a",
+    "journey": "J1003",
+    "channel": "酒店",
+    "seen_at": "2026-06-11T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1004a",
+    "journey": "J1004",
+    "channel": "直订",
+    "seen_at": "2026-06-11T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1005a",
+    "journey": "J1005",
+    "channel": "直订",
+    "seen_at": "2026-06-11T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1006a",
+    "journey": "J1006",
+    "channel": "酒店",
+    "seen_at": "2026-06-11T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1006b",
+    "journey": "J1006",
+    "channel": "直订",
+    "seen_at": "2026-06-11T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1007a",
+    "journey": "J1007",
+    "channel": "直订",
+    "seen_at": "2026-06-11T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1100a",
+    "journey": "J1100",
+    "channel": "酒店",
+    "seen_at": "2026-06-12T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1101a",
+    "journey": "J1101",
+    "channel": "直订",
+    "seen_at": "2026-06-12T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1101b",
+    "journey": "J1101",
+    "channel": "酒店",
+    "seen_at": "2026-06-12T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1102a",
+    "journey": "J1102",
+    "channel": "直订",
+    "seen_at": "2026-06-12T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1103a",
+    "journey": "J1103",
+    "channel": "酒店",
+    "seen_at": "2026-06-12T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1104a",
+    "journey": "J1104",
+    "channel": "直订",
+    "seen_at": "2026-06-12T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1105a",
+    "journey": "J1105",
+    "channel": "直订",
+    "seen_at": "2026-06-12T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1106a",
+    "journey": "J1106",
+    "channel": "酒店",
+    "seen_at": "2026-06-12T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1106b",
+    "journey": "J1106",
+    "channel": "直订",
+    "seen_at": "2026-06-12T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1107a",
+    "journey": "J1107",
+    "channel": "直订",
+    "seen_at": "2026-06-12T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1108a",
+    "journey": "J1108",
+    "channel": "直订",
+    "seen_at": "2026-06-12T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1200a",
+    "journey": "J1200",
+    "channel": "酒店",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1201a",
+    "journey": "J1201",
+    "channel": "直订",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1201b",
+    "journey": "J1201",
+    "channel": "酒店",
+    "seen_at": "2026-06-13T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1202a",
+    "journey": "J1202",
+    "channel": "直订",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1203a",
+    "journey": "J1203",
+    "channel": "酒店",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1204a",
+    "journey": "J1204",
+    "channel": "直订",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1205a",
+    "journey": "J1205",
+    "channel": "直订",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1206a",
+    "journey": "J1206",
+    "channel": "酒店",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1206b",
+    "journey": "J1206",
+    "channel": "直订",
+    "seen_at": "2026-06-13T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1207a",
+    "journey": "J1207",
+    "channel": "直订",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1208a",
+    "journey": "J1208",
+    "channel": "直订",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1209a",
+    "journey": "J1209",
+    "channel": "酒店",
+    "seen_at": "2026-06-13T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1300a",
+    "journey": "J1300",
+    "channel": "酒店",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1301a",
+    "journey": "J1301",
+    "channel": "直订",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1301b",
+    "journey": "J1301",
+    "channel": "酒店",
+    "seen_at": "2026-06-14T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1302a",
+    "journey": "J1302",
+    "channel": "直订",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1303a",
+    "journey": "J1303",
+    "channel": "酒店",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1304a",
+    "journey": "J1304",
+    "channel": "直订",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1305a",
+    "journey": "J1305",
+    "channel": "直订",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1306a",
+    "journey": "J1306",
+    "channel": "酒店",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1306b",
+    "journey": "J1306",
+    "channel": "直订",
+    "seen_at": "2026-06-14T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1307a",
+    "journey": "J1307",
+    "channel": "直订",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1308a",
+    "journey": "J1308",
+    "channel": "直订",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1309a",
+    "journey": "J1309",
+    "channel": "酒店",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1310a",
+    "journey": "J1310",
+    "channel": "直订",
+    "seen_at": "2026-06-14T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1400a",
+    "journey": "J1400",
+    "channel": "酒店",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1401a",
+    "journey": "J1401",
+    "channel": "直订",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1401b",
+    "journey": "J1401",
+    "channel": "酒店",
+    "seen_at": "2026-06-15T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1402a",
+    "journey": "J1402",
+    "channel": "直订",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1403a",
+    "journey": "J1403",
+    "channel": "酒店",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1404a",
+    "journey": "J1404",
+    "channel": "直订",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1405a",
+    "journey": "J1405",
+    "channel": "直订",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1406a",
+    "journey": "J1406",
+    "channel": "酒店",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1406b",
+    "journey": "J1406",
+    "channel": "直订",
+    "seen_at": "2026-06-15T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1407a",
+    "journey": "J1407",
+    "channel": "直订",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1408a",
+    "journey": "J1408",
+    "channel": "直订",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1409a",
+    "journey": "J1409",
+    "channel": "酒店",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1410a",
+    "journey": "J1410",
+    "channel": "直订",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1411a",
+    "journey": "J1411",
+    "channel": "直订",
+    "seen_at": "2026-06-15T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1411b",
+    "journey": "J1411",
+    "channel": "酒店",
+    "seen_at": "2026-06-15T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1500a",
+    "journey": "J1500",
+    "channel": "酒店",
+    "seen_at": "2026-06-16T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1501a",
+    "journey": "J1501",
+    "channel": "直订",
+    "seen_at": "2026-06-16T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1501b",
+    "journey": "J1501",
+    "channel": "酒店",
+    "seen_at": "2026-06-16T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1502a",
+    "journey": "J1502",
+    "channel": "直订",
+    "seen_at": "2026-06-16T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1503a",
+    "journey": "J1503",
+    "channel": "酒店",
+    "seen_at": "2026-06-16T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1504a",
+    "journey": "J1504",
+    "channel": "直订",
+    "seen_at": "2026-06-16T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1505a",
+    "journey": "J1505",
+    "channel": "直订",
+    "seen_at": "2026-06-16T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1506a",
+    "journey": "J1506",
+    "channel": "酒店",
+    "seen_at": "2026-06-16T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1506b",
+    "journey": "J1506",
+    "channel": "直订",
+    "seen_at": "2026-06-16T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1507a",
+    "journey": "J1507",
+    "channel": "直订",
+    "seen_at": "2026-06-16T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1600a",
+    "journey": "J1600",
+    "channel": "酒店",
+    "seen_at": "2026-06-17T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1601a",
+    "journey": "J1601",
+    "channel": "直订",
+    "seen_at": "2026-06-17T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1601b",
+    "journey": "J1601",
+    "channel": "酒店",
+    "seen_at": "2026-06-17T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1602a",
+    "journey": "J1602",
+    "channel": "直订",
+    "seen_at": "2026-06-17T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1603a",
+    "journey": "J1603",
+    "channel": "酒店",
+    "seen_at": "2026-06-17T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1604a",
+    "journey": "J1604",
+    "channel": "直订",
+    "seen_at": "2026-06-17T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1605a",
+    "journey": "J1605",
+    "channel": "直订",
+    "seen_at": "2026-06-17T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1606a",
+    "journey": "J1606",
+    "channel": "酒店",
+    "seen_at": "2026-06-17T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1606b",
+    "journey": "J1606",
+    "channel": "直订",
+    "seen_at": "2026-06-17T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1607a",
+    "journey": "J1607",
+    "channel": "直订",
+    "seen_at": "2026-06-17T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1608a",
+    "journey": "J1608",
+    "channel": "直订",
+    "seen_at": "2026-06-17T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1700a",
+    "journey": "J1700",
+    "channel": "酒店",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1701a",
+    "journey": "J1701",
+    "channel": "直订",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1701b",
+    "journey": "J1701",
+    "channel": "酒店",
+    "seen_at": "2026-06-18T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1702a",
+    "journey": "J1702",
+    "channel": "直订",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1703a",
+    "journey": "J1703",
+    "channel": "酒店",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1704a",
+    "journey": "J1704",
+    "channel": "直订",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1705a",
+    "journey": "J1705",
+    "channel": "直订",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1706a",
+    "journey": "J1706",
+    "channel": "酒店",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1706b",
+    "journey": "J1706",
+    "channel": "直订",
+    "seen_at": "2026-06-18T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1707a",
+    "journey": "J1707",
+    "channel": "直订",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1708a",
+    "journey": "J1708",
+    "channel": "直订",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1709a",
+    "journey": "J1709",
+    "channel": "酒店",
+    "seen_at": "2026-06-18T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1800a",
+    "journey": "J1800",
+    "channel": "酒店",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1801a",
+    "journey": "J1801",
+    "channel": "直订",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1801b",
+    "journey": "J1801",
+    "channel": "酒店",
+    "seen_at": "2026-06-19T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1802a",
+    "journey": "J1802",
+    "channel": "直订",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1803a",
+    "journey": "J1803",
+    "channel": "酒店",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1804a",
+    "journey": "J1804",
+    "channel": "直订",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1805a",
+    "journey": "J1805",
+    "channel": "直订",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1806a",
+    "journey": "J1806",
+    "channel": "酒店",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1806b",
+    "journey": "J1806",
+    "channel": "直订",
+    "seen_at": "2026-06-19T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1807a",
+    "journey": "J1807",
+    "channel": "直订",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1808a",
+    "journey": "J1808",
+    "channel": "直订",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1809a",
+    "journey": "J1809",
+    "channel": "酒店",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1810a",
+    "journey": "J1810",
+    "channel": "直订",
+    "seen_at": "2026-06-19T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1900a",
+    "journey": "J1900",
+    "channel": "酒店",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1901a",
+    "journey": "J1901",
+    "channel": "直订",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1901b",
+    "journey": "J1901",
+    "channel": "酒店",
+    "seen_at": "2026-06-20T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1902a",
+    "journey": "J1902",
+    "channel": "直订",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1903a",
+    "journey": "J1903",
+    "channel": "酒店",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1904a",
+    "journey": "J1904",
+    "channel": "直订",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1905a",
+    "journey": "J1905",
+    "channel": "直订",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1906a",
+    "journey": "J1906",
+    "channel": "酒店",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1906b",
+    "journey": "J1906",
+    "channel": "直订",
+    "seen_at": "2026-06-20T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E1907a",
+    "journey": "J1907",
+    "channel": "直订",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1908a",
+    "journey": "J1908",
+    "channel": "直订",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1909a",
+    "journey": "J1909",
+    "channel": "酒店",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1910a",
+    "journey": "J1910",
+    "channel": "直订",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1911a",
+    "journey": "J1911",
+    "channel": "直订",
+    "seen_at": "2026-06-20T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E1911b",
+    "journey": "J1911",
+    "channel": "酒店",
+    "seen_at": "2026-06-20T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2000a",
+    "journey": "J2000",
+    "channel": "酒店",
+    "seen_at": "2026-06-21T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2001a",
+    "journey": "J2001",
+    "channel": "直订",
+    "seen_at": "2026-06-21T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2001b",
+    "journey": "J2001",
+    "channel": "酒店",
+    "seen_at": "2026-06-21T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2002a",
+    "journey": "J2002",
+    "channel": "直订",
+    "seen_at": "2026-06-21T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2003a",
+    "journey": "J2003",
+    "channel": "酒店",
+    "seen_at": "2026-06-21T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2004a",
+    "journey": "J2004",
+    "channel": "直订",
+    "seen_at": "2026-06-21T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2005a",
+    "journey": "J2005",
+    "channel": "直订",
+    "seen_at": "2026-06-21T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2006a",
+    "journey": "J2006",
+    "channel": "酒店",
+    "seen_at": "2026-06-21T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2006b",
+    "journey": "J2006",
+    "channel": "直订",
+    "seen_at": "2026-06-21T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2007a",
+    "journey": "J2007",
+    "channel": "直订",
+    "seen_at": "2026-06-21T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2100a",
+    "journey": "J2100",
+    "channel": "酒店",
+    "seen_at": "2026-06-22T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2101a",
+    "journey": "J2101",
+    "channel": "直订",
+    "seen_at": "2026-06-22T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2101b",
+    "journey": "J2101",
+    "channel": "酒店",
+    "seen_at": "2026-06-22T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2102a",
+    "journey": "J2102",
+    "channel": "直订",
+    "seen_at": "2026-06-22T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2103a",
+    "journey": "J2103",
+    "channel": "酒店",
+    "seen_at": "2026-06-22T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2104a",
+    "journey": "J2104",
+    "channel": "直订",
+    "seen_at": "2026-06-22T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2105a",
+    "journey": "J2105",
+    "channel": "直订",
+    "seen_at": "2026-06-22T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2106a",
+    "journey": "J2106",
+    "channel": "酒店",
+    "seen_at": "2026-06-22T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2106b",
+    "journey": "J2106",
+    "channel": "直订",
+    "seen_at": "2026-06-22T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2107a",
+    "journey": "J2107",
+    "channel": "直订",
+    "seen_at": "2026-06-22T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2108a",
+    "journey": "J2108",
+    "channel": "直订",
+    "seen_at": "2026-06-22T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2200a",
+    "journey": "J2200",
+    "channel": "酒店",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2201a",
+    "journey": "J2201",
+    "channel": "直订",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2201b",
+    "journey": "J2201",
+    "channel": "酒店",
+    "seen_at": "2026-06-23T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2202a",
+    "journey": "J2202",
+    "channel": "直订",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2203a",
+    "journey": "J2203",
+    "channel": "酒店",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2204a",
+    "journey": "J2204",
+    "channel": "直订",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2205a",
+    "journey": "J2205",
+    "channel": "直订",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2206a",
+    "journey": "J2206",
+    "channel": "酒店",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2206b",
+    "journey": "J2206",
+    "channel": "直订",
+    "seen_at": "2026-06-23T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2207a",
+    "journey": "J2207",
+    "channel": "直订",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2208a",
+    "journey": "J2208",
+    "channel": "直订",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2209a",
+    "journey": "J2209",
+    "channel": "酒店",
+    "seen_at": "2026-06-23T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2300a",
+    "journey": "J2300",
+    "channel": "酒店",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2301a",
+    "journey": "J2301",
+    "channel": "直订",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2301b",
+    "journey": "J2301",
+    "channel": "酒店",
+    "seen_at": "2026-06-24T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2302a",
+    "journey": "J2302",
+    "channel": "直订",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2303a",
+    "journey": "J2303",
+    "channel": "酒店",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2304a",
+    "journey": "J2304",
+    "channel": "直订",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2305a",
+    "journey": "J2305",
+    "channel": "直订",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2306a",
+    "journey": "J2306",
+    "channel": "酒店",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2306b",
+    "journey": "J2306",
+    "channel": "直订",
+    "seen_at": "2026-06-24T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2307a",
+    "journey": "J2307",
+    "channel": "直订",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2308a",
+    "journey": "J2308",
+    "channel": "直订",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2309a",
+    "journey": "J2309",
+    "channel": "酒店",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2310a",
+    "journey": "J2310",
+    "channel": "直订",
+    "seen_at": "2026-06-24T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2400a",
+    "journey": "J2400",
+    "channel": "酒店",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2401a",
+    "journey": "J2401",
+    "channel": "直订",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2401b",
+    "journey": "J2401",
+    "channel": "酒店",
+    "seen_at": "2026-06-25T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2402a",
+    "journey": "J2402",
+    "channel": "直订",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2403a",
+    "journey": "J2403",
+    "channel": "酒店",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2404a",
+    "journey": "J2404",
+    "channel": "直订",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2405a",
+    "journey": "J2405",
+    "channel": "直订",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2406a",
+    "journey": "J2406",
+    "channel": "酒店",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2406b",
+    "journey": "J2406",
+    "channel": "直订",
+    "seen_at": "2026-06-25T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2407a",
+    "journey": "J2407",
+    "channel": "直订",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2408a",
+    "journey": "J2408",
+    "channel": "直订",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2409a",
+    "journey": "J2409",
+    "channel": "酒店",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2410a",
+    "journey": "J2410",
+    "channel": "直订",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2411a",
+    "journey": "J2411",
+    "channel": "直订",
+    "seen_at": "2026-06-25T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2411b",
+    "journey": "J2411",
+    "channel": "酒店",
+    "seen_at": "2026-06-25T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2500a",
+    "journey": "J2500",
+    "channel": "酒店",
+    "seen_at": "2026-06-26T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2501a",
+    "journey": "J2501",
+    "channel": "直订",
+    "seen_at": "2026-06-26T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2501b",
+    "journey": "J2501",
+    "channel": "酒店",
+    "seen_at": "2026-06-26T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2502a",
+    "journey": "J2502",
+    "channel": "直订",
+    "seen_at": "2026-06-26T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2503a",
+    "journey": "J2503",
+    "channel": "酒店",
+    "seen_at": "2026-06-26T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2504a",
+    "journey": "J2504",
+    "channel": "直订",
+    "seen_at": "2026-06-26T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2505a",
+    "journey": "J2505",
+    "channel": "直订",
+    "seen_at": "2026-06-26T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2506a",
+    "journey": "J2506",
+    "channel": "酒店",
+    "seen_at": "2026-06-26T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2506b",
+    "journey": "J2506",
+    "channel": "直订",
+    "seen_at": "2026-06-26T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2507a",
+    "journey": "J2507",
+    "channel": "直订",
+    "seen_at": "2026-06-26T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2600a",
+    "journey": "J2600",
+    "channel": "酒店",
+    "seen_at": "2026-06-27T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2601a",
+    "journey": "J2601",
+    "channel": "直订",
+    "seen_at": "2026-06-27T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2601b",
+    "journey": "J2601",
+    "channel": "酒店",
+    "seen_at": "2026-06-27T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2602a",
+    "journey": "J2602",
+    "channel": "直订",
+    "seen_at": "2026-06-27T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2603a",
+    "journey": "J2603",
+    "channel": "酒店",
+    "seen_at": "2026-06-27T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2604a",
+    "journey": "J2604",
+    "channel": "直订",
+    "seen_at": "2026-06-27T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2605a",
+    "journey": "J2605",
+    "channel": "直订",
+    "seen_at": "2026-06-27T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2606a",
+    "journey": "J2606",
+    "channel": "酒店",
+    "seen_at": "2026-06-27T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2606b",
+    "journey": "J2606",
+    "channel": "直订",
+    "seen_at": "2026-06-27T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2607a",
+    "journey": "J2607",
+    "channel": "直订",
+    "seen_at": "2026-06-27T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2608a",
+    "journey": "J2608",
+    "channel": "直订",
+    "seen_at": "2026-06-27T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2700a",
+    "journey": "J2700",
+    "channel": "酒店",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2701a",
+    "journey": "J2701",
+    "channel": "直订",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2701b",
+    "journey": "J2701",
+    "channel": "酒店",
+    "seen_at": "2026-06-28T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2702a",
+    "journey": "J2702",
+    "channel": "直订",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2703a",
+    "journey": "J2703",
+    "channel": "酒店",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2704a",
+    "journey": "J2704",
+    "channel": "直订",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2705a",
+    "journey": "J2705",
+    "channel": "直订",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2706a",
+    "journey": "J2706",
+    "channel": "酒店",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2706b",
+    "journey": "J2706",
+    "channel": "直订",
+    "seen_at": "2026-06-28T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2707a",
+    "journey": "J2707",
+    "channel": "直订",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2708a",
+    "journey": "J2708",
+    "channel": "直订",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2709a",
+    "journey": "J2709",
+    "channel": "酒店",
+    "seen_at": "2026-06-28T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2800a",
+    "journey": "J2800",
+    "channel": "酒店",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2801a",
+    "journey": "J2801",
+    "channel": "直订",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2801b",
+    "journey": "J2801",
+    "channel": "酒店",
+    "seen_at": "2026-06-29T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2802a",
+    "journey": "J2802",
+    "channel": "直订",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2803a",
+    "journey": "J2803",
+    "channel": "酒店",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2804a",
+    "journey": "J2804",
+    "channel": "直订",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2805a",
+    "journey": "J2805",
+    "channel": "直订",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2806a",
+    "journey": "J2806",
+    "channel": "酒店",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2806b",
+    "journey": "J2806",
+    "channel": "直订",
+    "seen_at": "2026-06-29T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2807a",
+    "journey": "J2807",
+    "channel": "直订",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2808a",
+    "journey": "J2808",
+    "channel": "直订",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2809a",
+    "journey": "J2809",
+    "channel": "酒店",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2810a",
+    "journey": "J2810",
+    "channel": "直订",
+    "seen_at": "2026-06-29T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2900a",
+    "journey": "J2900",
+    "channel": "酒店",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2901a",
+    "journey": "J2901",
+    "channel": "直订",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2901b",
+    "journey": "J2901",
+    "channel": "酒店",
+    "seen_at": "2026-06-30T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2902a",
+    "journey": "J2902",
+    "channel": "直订",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2903a",
+    "journey": "J2903",
+    "channel": "酒店",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2904a",
+    "journey": "J2904",
+    "channel": "直订",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2905a",
+    "journey": "J2905",
+    "channel": "直订",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2906a",
+    "journey": "J2906",
+    "channel": "酒店",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2906b",
+    "journey": "J2906",
+    "channel": "直订",
+    "seen_at": "2026-06-30T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E2907a",
+    "journey": "J2907",
+    "channel": "直订",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2908a",
+    "journey": "J2908",
+    "channel": "直订",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2909a",
+    "journey": "J2909",
+    "channel": "酒店",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2910a",
+    "journey": "J2910",
+    "channel": "直订",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2911a",
+    "journey": "J2911",
+    "channel": "直订",
+    "seen_at": "2026-06-30T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E2911b",
+    "journey": "J2911",
+    "channel": "酒店",
+    "seen_at": "2026-06-30T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E3000a",
+    "journey": "J3000",
+    "channel": "酒店",
+    "seen_at": "2026-07-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3001a",
+    "journey": "J3001",
+    "channel": "直订",
+    "seen_at": "2026-07-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3001b",
+    "journey": "J3001",
+    "channel": "酒店",
+    "seen_at": "2026-07-01T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E3002a",
+    "journey": "J3002",
+    "channel": "直订",
+    "seen_at": "2026-07-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3003a",
+    "journey": "J3003",
+    "channel": "酒店",
+    "seen_at": "2026-07-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3004a",
+    "journey": "J3004",
+    "channel": "直订",
+    "seen_at": "2026-07-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3005a",
+    "journey": "J3005",
+    "channel": "直订",
+    "seen_at": "2026-07-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3006a",
+    "journey": "J3006",
+    "channel": "酒店",
+    "seen_at": "2026-07-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3006b",
+    "journey": "J3006",
+    "channel": "直订",
+    "seen_at": "2026-07-01T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E3007a",
+    "journey": "J3007",
+    "channel": "直订",
+    "seen_at": "2026-07-01T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      480,
+      780,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3100a",
+    "journey": "J3100",
+    "channel": "酒店",
+    "seen_at": "2026-07-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3101a",
+    "journey": "J3101",
+    "channel": "直订",
+    "seen_at": "2026-07-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3101b",
+    "journey": "J3101",
+    "channel": "酒店",
+    "seen_at": "2026-07-02T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E3102a",
+    "journey": "J3102",
+    "channel": "直订",
+    "seen_at": "2026-07-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3103a",
+    "journey": "J3103",
+    "channel": "酒店",
+    "seen_at": "2026-07-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3104a",
+    "journey": "J3104",
+    "channel": "直订",
+    "seen_at": "2026-07-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3105a",
+    "journey": "J3105",
+    "channel": "直订",
+    "seen_at": "2026-07-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "express"
+    ],
+    "prices": [
+      480,
+      400
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3106a",
+    "journey": "J3106",
+    "channel": "酒店",
+    "seen_at": "2026-07-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3106b",
+    "journey": "J3106",
+    "channel": "直订",
+    "seen_at": "2026-07-02T10:00:00+08:00",
+    "options": [
+      "semi",
+      "day"
+    ],
+    "prices": [
+      470,
+      755
+    ],
+    "old_choice": true
+  },
+  {
+    "exposure": "E3107a",
+    "journey": "J3107",
+    "channel": "直订",
+    "seen_at": "2026-07-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  },
+  {
+    "exposure": "E3108a",
+    "journey": "J3108",
+    "channel": "直订",
+    "seen_at": "2026-07-02T09:00:00+08:00",
+    "options": [
+      "semi",
+      "day",
+      "express"
+    ],
+    "prices": [
+      540,
+      720,
+      420
+    ],
+    "old_choice": false
+  }
+]

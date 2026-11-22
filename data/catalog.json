@@ -1,0 +1,23 @@
+[
+  {
+    "plan": "semi",
+    "hours": 4,
+    "transfer": 30,
+    "operator_coupon": 18,
+    "hour_cost": 45
+  },
+  {
+    "plan": "day",
+    "hours": 8,
+    "transfer": 0,
+    "operator_coupon": 35,
+    "hour_cost": 45
+  },
+  {
+    "plan": "express",
+    "hours": 3,
+    "transfer": 65,
+    "operator_coupon": 11,
+    "hour_cost": 45
+  }
+]
